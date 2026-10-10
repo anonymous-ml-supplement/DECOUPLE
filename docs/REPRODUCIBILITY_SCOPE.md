@@ -25,8 +25,8 @@ Full historical re-execution still requires external benchmark assets, model che
 - Point ties are not equivalence findings.
 - Component-level compute records are not collapsed into an unsupported unified end-to-end efficiency metric.
 
-Environment profile: see `docs/ENVIRONMENT.md`. Public checking scripts remain deliberately provided because a publication-quality reproduction archive must allow reviewers to verify the expected outputs and data hashes. Redundant check shell wrappers were removed in V6.
+Environment profile: see `docs/ENVIRONMENT.md`. Public checking scripts remain deliberately provided because a publication-quality reproduction archive must allow reviewers to verify the expected outputs and data hashes. Redundant historical wrapper scripts are not required for the public reviewer workflow.
 
-## TMLR v5 extensions (V7 release)
+## TMLR manuscript extensions (current package release)
 
-The shared frozen-core Tier A scope is not equal to all reported TMLR v5 analyses. Exact coverage classes and per-result evidence are published in `docs/TMLR_V5_COVERAGE_MATRIX.tsv`; missing original frozen extension outputs are tracked in `docs/EXTENSION_EVIDENCE_REQUIREMENTS.md`. Run `make coverage` to audit the claims and source paths, but note that this validates availability and documented scope, not scientific replay of missing experiments.
+The shared frozen-core Tier A scope is not equal to all reported manuscript analyses. Exact coverage classes and per-result evidence are published in `docs/PAPER_COVERAGE_MATRIX.tsv`; missing original frozen extension outputs are tracked in `docs/EXTENSION_EVIDENCE_REQUIREMENTS.md`. Run `make coverage` to audit the claims and source paths, but note that this validates availability and documented scope, not scientific replay of missing experiments.

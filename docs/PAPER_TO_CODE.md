@@ -1,8 +1,8 @@
-# TMLR v5 paper-to-code map
+# Manuscript-to-code map
 
-This map refers to the **TMLR v5 single-PDF manuscript** (main text, then References, then Appendices A–M), **not** the older NAACL section numbering. Locations and labels were checked against the supplied `decouple_tmlr_v5.tex`. Script names and historical experiment directories are retained for reproducibility, not as manuscript section names. `TMLR_V5_COVERAGE_MATRIX.tsv` provides machine-checkable evidence scope.
+The map corresponds to the TMLR single-PDF manuscript (main text, References, Appendices A–M). Historical experiment identifiers in source paths are preserved for reproducibility, not as release labels. `PAPER_COVERAGE_MATRIX.tsv` records machine-checkable evidence scope.
 
-| TMLR v5 location / result | Code or replay entrypoint | Available frozen authority | Coverage |
+| Manuscript location / result | Code or replay entrypoint | Available frozen authority | Coverage |
 |---|---|---|---|
 | §3 Decision Formulation | Mathematical definitions in the paper, implementation interpretation in `pipeline/method/` | Decision-time pre-scores / base outcomes | FORMULATION; not causal value identification |
 | §4.1 Semantic uncertainty | `pipeline/method/compute_semantic_classes_and_pt.py` | Frozen semantic class index and candidate scores | Source + frozen classes |
@@ -34,7 +34,7 @@ This map refers to the **TMLR v5 single-PDF manuscript** (main text, then Refere
 
 ```bash
 make audit        # source/hash/generic anonymity/inventory checks; zero API
-make coverage     # exact available/unavailable TMLR v5 evidence matrix
+make coverage     # check paper evidence availability and limitations
 make reproduce    # full Tier A numerical reproduction; zero API, may take time
 make figures      # after Tier A, render manuscript figure files
 ```

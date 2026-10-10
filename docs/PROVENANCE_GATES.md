@@ -1,46 +1,53 @@
-# V7 provenance and publication boundaries
+# Research provenance and verification boundaries
 
-This is an explicit **two-gate** report. Passing release hygiene does not establish that all historical research provenance is independently verified. No model calls, API requests, or physical branches were run to produce V7.
+Two distinct questions must be kept separate: whether the local archive is safe and internally consistent, and whether the historical execution circumstances can be independently authenticated. Passing the first does not resolve the second.
 
-## Gate A — local release safety
+## Local release and numerical verification
 
-- **PASS, local archive staging:** generic privacy and credential scan includes `scripts/check_anonymity.py` itself, with no publication of project-specific identity denylist strings.
-- **PASS, local archive staging:** complete static Python syntax, frozen scientific-input SHA-256, frozen expected-output SHA-256, and release manifest (after final packaging).
-- **PASS, local numeric replay:** original cross-fit upstream quota selection is independently re-derived from frozen D11, and default paper reconstruction remains zero-API.
-- **OPEN, public mirror:** the actual online anonymous mirror has not been authenticated from this execution environment. A ZIP hash or local audit cannot substitute for checking the remote directory, exposed metadata, and exact download bytes after publishing.
+- **PASS — local source and artifact checks:** static Python source inspection, release-manifest coverage, SHA-256 validation of frozen inputs and expected outputs, and generic privacy scanning of all files including the anonymity checker itself.
+- **PASS — reference-lab frozen-core numerical reproduction:** `make reviewer-check` completed with 32/32 expected-output comparisons, original-instance LOO reconstruction matching 187 rows and 1,870 numeric cells, and `FINAL_REPRODUCTION_STATUS=PASS`.
+- **OPEN — hosted repository:** the remote host's served files, Git metadata and account context require post-publication verification. Local anonymity scans do not establish this remotely.
 
-## Gate B — original execution provenance
+The default reviewer reproduction uses archived inputs; no model/API request or physical intervention is required. The scientific inputs, numerical procedures and archived execution authorities are unchanged by the public documentation cleanup.
 
-| Research question | V4 status | Precisely supported evidence / outstanding requirement |
+## Historical execution provenance
+
+| Research question | Evidence status | Verified material and boundary |
 |---|---|---|
-| STEP3E source equivalence | **PASS for source snapshot; PARTIAL historically** | The accessible private-authority bundle contains the original runner and state machine. The runner differs from the publication copy only through three occurrences of the source-root string. Full text is identical after root-prefix normalization. The state machine is byte-identical. A fresh read-only comparison against the live, historically frozen lab files and checkpoint/runtime dependency versions is still recommended. |
-| LOO fold-selection code | **PASS for upstream algorithm and output replay** | `analysis/provenance/run_vef_v1_audit_archived.py` preserves the original upstream algorithm with only a path-label change. `scripts/rebuild_loo_from_d11.py` independently reconstructs the 187-row cross-fit authority: 1,870/1,870 numeric cells equal at frozen output precision; every 11-cap held-out fold chooses the smallest tied best training-fold budget. This does not make the diagnostic prospective or external validation. The separate dated preanalysis freeze record was not independently authenticated in the earlier read-only source audit. |
-| Provider-effective settings | **PARTIAL** | Frozen runner implements rejected-temperature fallback; sampled retained H2 report shows provider-rejection examples. Requested and provider-accepted settings are distinguished. Exhaustive provider-original authenticated request/response evidence for every call is not bundled. |
-| PRE-only alpha = 4/9 | **PARTIAL/OPEN** | Graph source documents development-only, outcome-blind calibration and the frozen formula. A separately authenticated timestamped PRE-only cohort membership/freeze ledger demonstrating chronological disjointness is not bundled. Do not infer one from the equation alone. |
-| External anonymous mirror | **OPEN** | Local ZIP only; review downloaded mirror and account/commit metadata after upload. |
+| STEP3E checkpoint source equivalence | **PASS for source snapshots; PARTIAL for original runtime** | The original runner and published path-normalized runner have matching content after three source-root substitutions. The state-machine implementation is byte-identical. This source comparison alone does not reproduce historical provider responses or every checkpoint dependency. |
+| Original-instance LOO operating-budget selection | **PASS for algorithm and frozen-output replay** | An archived upstream selection algorithm and the independent `scripts/rebuild_loo_from_d11.py` check agree on 187 rows and 1,870 numerical values. Training folds exclude the held-out instance, choose the smallest tied best quota and aggregate frozen Random replicates within original instance. The separate dated preanalysis freeze record is not independently authenticated. |
+| Provider-effective generation settings | **PARTIAL** | The runner includes rejected-parameter fallback and the retained H2 record includes provider-rejection examples. Complete, independently authenticated server-side request/response records for every historical call are not distributed. |
+| PRE-only graph fallback calibration | **PARTIAL/OPEN** | The graph source documents outcome-blind calibration of the coefficient 4/9. An independently verified, timestamped PRE-only cohort/disjointness ledger is unavailable in this public archive. |
+| Anonymity of the remote Git mirror | **OPEN** | Requires inspection of hosted repository files, identities, commit metadata, and external links after uploading. |
 
-## STEP3E source comparison against provided authority snapshot
+## Checkpoint source comparison
 
-The original runner's source SHA-256 in the private authority snapshot is
-`14c2fe10379e107e407703514f8994e75e121d8ba82b8352f11b443c7e0aeb2a`.
-Its release path-normalized version is
-`445275efd870bbb53fd6bdbbd7083c6382020030e8a7e1d41a4dfecd6beba72e`.
-The source and release state-machine SHA-256 is
-`7208cedc708c91fc0421e6bf23a47633b86ed25fec93695b59ee434233ca2ef1`.
-The script `scripts/verify_step3e_source_equivalence.py` performs these comparisons using privately supplied file paths; no personal paths are embedded in the archive.
+The original checkpoint runner's hash in the private frozen authority snapshot is:
 
-## LOO source and numerical controls
+```text
+14c2fe10379e107e407703514f8994e75e121d8ba82b8352f11b443c7e0aeb2a
+```
 
-Historical `choose_budget` enumerates the frozen grid at caps no greater than the currently evaluated cap, averages training-instance exact outcomes, and resolves equal best means with **minimum budget** (`min(best_budgets)` within 1e-12). Each held-out fold excludes that instance before choosing either method's quota. Frozen Random replicates are collapsed within instance and budget. The 187-row comparison covers 17 benchmark-comparator pairs × 11 caps, including 15 core and 2 specialized pairs. The portable replayer is fully deterministic and validates the SHA-256 of the 16,907-row frozen D11 input. Its result comparison is not a test of how that D11 input was physically generated.
+The path-normalized published runner hash is:
 
-## Paper-version coverage
+```text
+445275efd870bbb53fd6bdbbd7083c6382020030e8a7e1d41a4dfecd6beba72e
+```
 
-The V7 package reproduces the scientific analyses carried forward from the earlier frozen benchmark authority, including exact-quota/VEF, LOO, grid stability, zero anchors and associated historical sensitivities. A later TMLR revision may include additional no-critique regeneration controls, simulator-rerun experiments, position-controlled association, and tie-frequency diagnostics. Their historical extension input artifacts have not been supplied in this V4 authority snapshot, so this ZIP **does not assert full replay of those additional manuscript-specific experiments**. Those are distinct from whether the V7 archive is anonymously publishable.
+The matching original/published state-machine source hash is:
 
-## Hard scientific restrictions
+```text
+7208cedc708c91fc0421e6bf23a47633b86ed25fec93695b59ee434233ca2ef1
+```
 
-No historical data or outcomes were rewritten. No original STEP3E source, model requests, frozen branch, protocol claim, or selection result was changed. Absence of an external ledger is an explicit evidence gap, never a warrant to synthesize it.
+For source-only equivalence, `scripts/verify_step3e_source_equivalence.py` accepts privately available original files as external input. It does not embed researcher-specific paths or ship private authorities.
 
-## V7 TMLR v5 evidence-coverage gate
+## LOO reconstruction boundary
 
-The scientific core inherited from V6 remains untouched. For manuscript-wide review, see `docs/TMLR_V5_COVERAGE_MATRIX.tsv` and `docs/EXTENSION_EVIDENCE_REQUIREMENTS.md`. Four later TMLR-only analyses have explicit `NOT_INCLUDED` status pending original frozen inputs; do not interpret the Tier A PASS as a complete replay of all v5 extensions. V6 lab `make audit` evidence does not automatically authenticate a new V7 full `make reproduce` run.
+The frozen original-instance LOO procedure selects an operating budget using only the other original instances in its training fold, subject to the evaluated capacity, and selects the smallest tied best budget within numerical tolerance. Frozen Random replicate outcomes are combined at the original-instance/budget level. The 17 benchmark–comparator pairs and 11 capacities yield 187 rows. The portable replayer validates the source frozen D11 digest before comparing numerical outputs. This validates the selection computation **conditional on the frozen D11 input**; it does not validate the historical physical creation of D11 anew.
+
+## Manuscript coverage
+
+The included frozen-core analyses cover executed exact quotas, retrospective capacity, LOO, grid stability, identifiable zero-intervention outcomes and supporting statistical diagnostics. Four additional analyses reported in the manuscript are expressly classified as `NOT_INCLUDED` because their original per-case or per-step extension records are not packaged. Their coverage and source requirements are documented in `docs/PAPER_COVERAGE_MATRIX.tsv` and `docs/EXTENSION_EVIDENCE_REQUIREMENTS.md`. A numerical-reproduction PASS does not imply complete reproduction of those extensions.
+
+**Integrity rule:** no missing primary experimental data, freeze ledger or provider responses are inferred or synthesized to close a provenance gap.

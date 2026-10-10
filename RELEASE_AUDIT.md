@@ -1,39 +1,34 @@
-# DECOUPLE V7 — TMLR v5 anonymous release audit
+# Reproducibility and release audit
 
-## Scope
+## Frozen-core reference verification
 
-V7 is a **documentation, coverage-disclosure, and reviewer workflow revision** of the supplied V6 anonymous frozen-core package. It is not a new scientific run or a promise of full TMLR v5 extension replay. No new API, model, or physical intervention executions were performed. No original selection, branch, terminal outcome, analysis rule, primary metric, or statistical decision was altered.
+A completed reference-lab `make reviewer-check` run with Python 3.10.12, NumPy 2.2.6 and Matplotlib 3.10.9 reported the following verified results:
 
-## Immutable scientific authority
+| Check | Evidence |
+|---|---|
+| Source syntax and first-party dependencies | `FINAL_SOURCE_TREE_STATUS=PASS` |
+| Local package manifest | `FINAL_RELEASE_MANIFEST_STATUS=PASS` |
+| Frozen inputs | `FINAL_FROZEN_HASH_STATUS=PASS` (17 authorities) |
+| Expected outputs | `FINAL_EXPECTED_HASH_STATUS=PASS` (48 authorities) |
+| Local static anonymity scan | `FINAL_ANONYMITY_STATUS=PASS`; scanner self-included |
+| Original-instance LOO reconstruction | `FINAL_LOO_UPSTREAM_REPLAY_STATUS=PASS`; 187 rows, 1,870 numeric cells |
+| Frozen numerical comparisons | `FINAL_OUTPUT_COMPARISON_STATUS=PASS`; 32 matches, 0 failures |
+| Paper headline consistency | `FINAL_CLAIM_VALIDATION_STATUS=PASS` |
+| Full frozen-core numerical workflow | `FINAL_REPRODUCTION_STATUS=PASS` |
 
-All 108 protected files in `analysis/` (15), `pipeline/` (24), `artifacts/` (68), and `protocol/` (1) are retained byte-for-byte from V6. V7 adds `docs/TMLR_V5_COVERAGE_MATRIX.tsv`, `docs/EXTENSION_EVIDENCE_REQUIREMENTS.md` and `scripts/audit_tmlr_v5_coverage.py`, alongside README, paper map, provenance, scope, Makefile and changelog updates. Protected numerical hashes must still pass `make audit`.
+The scientific methods, protected analyses and archived frozen authorities in this checkout have the same bytes as the tested source. Reader-facing documentation, evidence-mapping utilities and archive integrity listings were updated without changing scientific inputs or numerical methods. The current checkout's static audit is tested separately. Do not interpret a reference-lab result as a newly executed complete numerical run on every future Git commit.
 
-## Local validation performed on V7 staging
+## Coverage boundaries
 
-- **PASS:** static compilation of 55 Python files (54 V6 + 1 V7), including model-facing files for inspection only.
-- **PASS:** frozen input SHA256 17/17, expected-output SHA256 48/48.
-- **PASS:** anonymous generic scanner includes its own source; contextual and remote identity cannot be certified by regex alone.
-- **PASS:** coverage matrix verifies 18 paper-level items: 10 CORE_REPLAY, 4 SOURCE_INSPECTION, 4 NOT_INCLUDED; these classes do not measure scientific accuracy or complete extensions.
-- **PASS (partial numerical run):** exact-budget, absolute VEF, non-envelope, grid stability, downstream cross-fit, original upstream LOO (187 rows/1,870 numeric cells), and zero-anchor-fast (BFCL=0.32, Math-Shepherd=0.40). The realized-displacement computation printed completion in its stage log, but no full integration final marker was emitted in this sandbox run.
-- **OPEN (integrated execution):** the foreground `scripts/reproduce_all.sh` attempt exceeded the container execution allowance after the realized-displacement stage, before its last integration checks. Consequently **`FINAL_REPRODUCTION_STATUS=PASS` has not been observed for V7 here**. The V4 original-lab end-to-end PASS remains historical supporting context, not a surrogate V7 PASS.
-- **Environment difference:** this sandbox uses Python 3.13.5, NumPy 2.3.5, Matplotlib 3.10.8, while the original validated lab profile is Python 3.10.12, NumPy 2.2.6, Matplotlib 3.10.9.
+The above PASS is for the included **frozen shared core**. Four reported extension analyses lack complete original per-instance/per-step raw evidence in this package. The [coverage matrix](docs/PAPER_COVERAGE_MATRIX.tsv) labels those analyses `NOT_INCLUDED` and does not claim their output reconstruction.
 
-## Reproducibility and public anonymity boundaries
+- Historical provider-accepted decoding settings are partially documented; exhaustive original server-side records are not bundled.
+- The chronology and exact disjointness of the PRE-only graph calibration require additional original dated evidence.
+- Source equivalence for the checkpoint executor and output equivalence for the LOO reconstruction are not new physical execution of the historical model.
+- The actual remotely hosted Git files, commit and account metadata, and anonymous mirror status must be checked independently after upload; **remote anonymity is not certified by the local scan**.
 
-The frozen shared core has Tier A zero-API numerical replay; the four later TMLR v5 extension analyses remain incomplete in this exact release due to missing original frozen extension inputs. This includes no-critique continuation control, simulator-noise extension, position-controlled association, and hash tie-frequency. See `docs/EXTENSION_EVIDENCE_REQUIREMENTS.md` for exact evidence needed, without assuming new experiments.
+## Integrity and use
 
-Original STEP3E source snapshot equivalence and LOO upstream reconstruction are documented; original runtime/checkpoint authentication and freeze-chronology provenance are distinct, still-limited claims. Provider-effective settings across all calls and PRE-only alpha cohort chronology remain partly OPEN.
+`make audit` checks first-party source syntax, the release manifest, local anonymity and the frozen-input/expected-output hashes. `make reviewer-check` additionally executes the deterministic offline reconstruction. Results are written only under `reproduced/`, leaving the distributed authorities untouched. If reader-facing files change, regenerate `RELEASE_MANIFEST.tsv` before publishing; this does not alter science.
 
-The **published remote anonymous mirror is OPEN** until its actual served files, exposed metadata, account/commit history, downloadable archive contents, and file hashes are inspected against this V7 release. Local anonymity PASS cannot close that gate.
-
-## Lab completion gate
-
-Run from a clean extraction in the tested lab environment, with all output in the foreground:
-
-```bash
-make reviewer-check
-```
-
-Save the terminal log and check `FINAL_REPRODUCTION_STATUS=PASS`, `FINAL_OUTPUT_COMPARISON_STATUS=PASS`, the claim-validation result, the local anonymity gate and the V7 manifest. Only then upgrade the V7 **lab full-integrated reproduction** from OPEN to PASS. The full suite calls no external models or APIs.
-
-`make figures` is separate and optional after successful numerical reproduction. Additional historical Tier B heavy inference is optional and not covered by a default Tier A PASS.
+The root `Makefile` intentionally remains the one-command reviewer interface. Historical internal experiment directory names are retained to preserve executable file-path provenance; they should not be interpreted as separate software releases.

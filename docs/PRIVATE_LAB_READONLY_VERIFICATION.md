@@ -2,7 +2,7 @@
 
 Do not edit the original research tree. These are purely read-only source checks.
 
-From a fresh V4 repository and a lab account with access to the original frozen files:
+From the repository and a lab account with access to the original frozen files:
 
 ```bash
 ROOT=/path/to/original/research/tree

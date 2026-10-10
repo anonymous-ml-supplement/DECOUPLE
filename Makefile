@@ -10,7 +10,7 @@ audit:
 	python3 scripts/verify_hashes.py expected
 
 coverage:
-	python3 scripts/audit_tmlr_v5_coverage.py
+	python3 scripts/audit_paper_coverage.py
 
 reviewer-check:
 	$(MAKE) audit

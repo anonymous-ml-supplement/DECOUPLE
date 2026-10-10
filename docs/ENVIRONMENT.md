@@ -2,7 +2,7 @@
 
 ## Tier A/B: zero-API numerical reproduction
 
-**Independently tested on the original lab host** with CPython **3.10.12**, NumPy **2.2.6**, and Matplotlib **3.10.9**. The original lab run reported 32/32 expected output comparisons, zero failures, successful claim validation, and `FINAL_REPRODUCTION_STATUS=PASS`. This is evidence for the **V4 scientific core**; V6 changes packaging, dependency declarations, and verification entrypoints, not frozen scientific values.
+**Independently tested on the original lab host** with CPython **3.10.12**, NumPy **2.2.6**, and Matplotlib **3.10.9**. The original lab run reported 32/32 expected output comparisons, zero failures, successful claim validation, and `FINAL_REPRODUCTION_STATUS=PASS`. This is evidence for the **prior authority scientific core**; prior packaging changes packaging, dependency declarations, and verification entrypoints, not frozen scientific values.
 
 `requirements.txt` pins the exact two **direct** third-party requirements of the offline scripts. It is **not** a fully resolved, platform-independent package-lock file: transitive dependencies, compiled wheel hashes, GPU drivers, benchmark runtime, and provider SDK are not locked. Do not interpret this file as historical full model-execution environment provenance. `environment.yml` is an optional Conda alternative with Python 3.10 and the same direct package versions; its Python patch can differ from 3.10.12.
 
@@ -36,7 +36,7 @@ resolves the Python environment before any numerical script executes.
 
 Use your existing virtual environment if installed; do **not** upgrade or overwrite historical packages just to audit this release. Its `bin` path can be put first in `PATH` before running `bash scripts/reproduce_all.sh`. No absolute researcher paths are embedded in this release.
 
-### What a version check means
+### Environment compatibility checks
 
 ```bash
 python3 scripts/check_environment.py

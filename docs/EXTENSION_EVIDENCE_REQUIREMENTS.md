@@ -1,6 +1,6 @@
-# TMLR v5 extension evidence requirements (no new experiments)
+# Extension evidence requirements (no new experiments)
 
-This repository's default Tier A rebuilds the shared frozen core. It does **not** currently reproduce every analysis reported in the later TMLR v5 manuscript. Absence is explicit in `TMLR_V5_COVERAGE_MATRIX.tsv`; the `make coverage` target validates the classification and its available file references, not scientific completeness.
+This repository's default Tier A rebuilds the shared frozen core. It does **not** currently reproduce every analysis reported in the TMLR manuscript. Absence is explicit in `PAPER_COVERAGE_MATRIX.tsv`; the `make coverage` target validates the classification and its available file references, not scientific completeness.
 
 | Published extension | Existing evidence required for an independent zero-API check | Current release | Acceptance rule for a future addition |
 |---|---|---|---|
@@ -15,7 +15,7 @@ This repository's default Tier A rebuilds the shared frozen core. It does **not*
 2. Record original-source SHA256 and public release SHA256 when the artifact is normalized for anonymity. Remove contextual identifiers from the released text; keep the original authority mapping in a private ledger.
 3. Record reviewer-visible denominators, cohort rules, original inferential unit, comparison direction and limits. Keep adverse and null findings intact.
 4. Add a separate, isolated `artifacts/extensions/<analysis>/` directory only after validation. Do not edit the shared `artifacts/frozen_inputs/` or `artifacts/expected/` authority trees.
-5. Update coverage class, manifest and changelog. Never upgrade an item to `CORE_REPLAY` solely because the paper includes its table or aggregated counts.
+5. Update the coverage class, manifest and release audit. Never upgrade an item to `CORE_REPLAY` solely because the paper includes its table or aggregated counts.
 6. The published anonymous mirror and its metadata require an independent post-upload check. Local scans cannot establish remote anonymity.
 
 No missing extension is required to be recreated by paid model/API calls. Lack of original frozen inputs is an explicit reproducibility limitation, not a reason to fabricate an alternative analysis.
