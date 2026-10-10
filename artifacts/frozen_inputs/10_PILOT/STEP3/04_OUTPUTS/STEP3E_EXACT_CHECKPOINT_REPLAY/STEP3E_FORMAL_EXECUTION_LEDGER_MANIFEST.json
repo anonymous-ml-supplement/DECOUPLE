@@ -1,0 +1,34 @@
+{
+  "api_calls": 0,
+  "benchmark_counts": {
+    "BFCL": 1043,
+    "Math-Shepherd": 1334,
+    "ToolAlpaca": 141
+  },
+  "branch_replay_executed": false,
+  "deduplication_rule": "execution identity is defined only by benchmark, instance_id, chronological selected-step set, and intervention operator",
+  "evaluation_identity_rule": "method, budget, and random replicate remain in the fanout ledger and are never pooled for statistical evaluation",
+  "execution_ledger": "__DECOUPLE_ROOT__/10_PILOT/STEP3/04_OUTPUTS/STEP3E_EXACT_CHECKPOINT_REPLAY/STEP3E_FORMAL_EXECUTION_LEDGER.jsonl",
+  "execution_ledger_sha256": "831ebab2cfb3091ac4f0ced26e9e4c49b4a9aeecdb04e36a11c27836e2a4ca59",
+  "fanout_ledger": "__DECOUPLE_ROOT__/10_PILOT/STEP3/04_OUTPUTS/STEP3E_EXACT_CHECKPOINT_REPLAY/STEP3E_EXECUTION_FANOUT.jsonl",
+  "fanout_ledger_sha256": "9285e77c9ab62c0e0a12d652ddb9d3f7ffc74688d4438cb4315dcc36a4954dc6",
+  "joint_source_rows": 9222,
+  "model_calls": 0,
+  "next": "STEP3E_RUN_FORMAL_EXECUTION_LEDGER",
+  "operator_counts": {
+    "V_oracle": 66,
+    "V_refine": 2452
+  },
+  "pre_mutation": false,
+  "scientific_authority": "SPEC5",
+  "scientific_substep": "STEP3E_EXACT_CHECKPOINT_RESTORE_REPLAY",
+  "singleton_source_rows": 697,
+  "source_evaluation_rows_total": 9919,
+  "source_type_counts": {
+    "joint_practical": 9222,
+    "singleton_oracle": 66,
+    "singleton_practical": 631
+  },
+  "status": "PASS_FROZEN",
+  "unique_execution_branches": 2518
+}

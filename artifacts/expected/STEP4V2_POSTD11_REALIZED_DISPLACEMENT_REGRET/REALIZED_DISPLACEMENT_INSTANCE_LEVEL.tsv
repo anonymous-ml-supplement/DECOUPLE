@@ -1,0 +1,2251 @@
+benchmark	instance_id	budget	T	B	method	oracle_steps	selected_steps	oracle_F	selected_F	displacement_regret
+BFCL	multi_turn_base_13	0.05	7	1	DECOUPLE	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.05	7	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.05	7	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.05	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.05	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.05	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.1	7	1	DECOUPLE	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.1	7	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.1	7	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.1	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.1	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.1	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.15	7	1	DECOUPLE	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.15	7	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.15	7	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.15	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.15	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.15	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.2	7	1	DECOUPLE	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.2	7	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.2	7	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.2	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.2	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.2	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.25	7	2	DECOUPLE	[1, 2]	[6, 7]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.25	7	2	LOCAL_RISK_STEP_PRM	[1, 2]	[3, 2]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.25	7	2	LOWEST_PRM_SCORE	[1, 2]	[3, 2]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.25	7	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.25	7	2	LATEST_STEP	[1, 2]	[6, 7]	0.0	0.0	0.0
+BFCL	multi_turn_base_13	0.25	7	2	UNIFORM_SPACING	[1, 2]	[2, 6]	0.0	0.0	0.0
+BFCL	multi_turn_base_145	0.05	13	1	DECOUPLE	[1]	[12]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_145	0.05	13	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_145	0.05	13	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_145	0.05	13	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_145	0.05	13	1	LATEST_STEP	[1]	[13]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_145	0.05	13	1	UNIFORM_SPACING	[1]	[7]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_145	0.1	13	1	DECOUPLE	[1]	[12]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_145	0.1	13	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_145	0.1	13	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_145	0.1	13	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_145	0.1	13	1	LATEST_STEP	[1]	[13]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_145	0.1	13	1	UNIFORM_SPACING	[1]	[7]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_145	0.15	13	2	DECOUPLE	[1, 2]	[12, 8]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_145	0.15	13	2	LOCAL_RISK_STEP_PRM	[1, 2]	[1, 9]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_145	0.15	13	2	LOWEST_PRM_SCORE	[1, 2]	[1, 9]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_145	0.15	13	2	EARLIEST_STEP	[1, 2]	[1, 2]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_145	0.15	13	2	LATEST_STEP	[1, 2]	[12, 13]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_145	0.15	13	2	UNIFORM_SPACING	[1, 2]	[4, 10]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_145	0.2	13	3	DECOUPLE	[1, 2, 3]	[12, 8, 6]	-3.0	-3.0	0.0
+BFCL	multi_turn_base_145	0.2	13	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[1, 9, 12]	-3.0	-3.0	0.0
+BFCL	multi_turn_base_145	0.2	13	3	LOWEST_PRM_SCORE	[1, 2, 3]	[1, 9, 12]	-3.0	-3.0	0.0
+BFCL	multi_turn_base_145	0.2	13	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	-3.0	-3.0	0.0
+BFCL	multi_turn_base_145	0.2	13	3	LATEST_STEP	[1, 2, 3]	[11, 12, 13]	-3.0	-3.0	0.0
+BFCL	multi_turn_base_145	0.2	13	3	UNIFORM_SPACING	[1, 2, 3]	[3, 7, 11]	-3.0	-3.0	0.0
+BFCL	multi_turn_base_145	0.25	13	3	DECOUPLE	[1, 2, 3]	[12, 8, 6]	-3.0	-3.0	0.0
+BFCL	multi_turn_base_145	0.25	13	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[1, 9, 12]	-3.0	-3.0	0.0
+BFCL	multi_turn_base_145	0.25	13	3	LOWEST_PRM_SCORE	[1, 2, 3]	[1, 9, 12]	-3.0	-3.0	0.0
+BFCL	multi_turn_base_145	0.25	13	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	-3.0	-3.0	0.0
+BFCL	multi_turn_base_145	0.25	13	3	LATEST_STEP	[1, 2, 3]	[11, 12, 13]	-3.0	-3.0	0.0
+BFCL	multi_turn_base_145	0.25	13	3	UNIFORM_SPACING	[1, 2, 3]	[3, 7, 11]	-3.0	-3.0	0.0
+BFCL	multi_turn_base_160	0.05	8	1	DECOUPLE	[1]	[3]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.05	8	1	LOCAL_RISK_STEP_PRM	[1]	[7]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.05	8	1	LOWEST_PRM_SCORE	[1]	[7]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.05	8	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.05	8	1	LATEST_STEP	[1]	[8]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.05	8	1	UNIFORM_SPACING	[1]	[4]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.1	8	1	DECOUPLE	[1]	[3]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.1	8	1	LOCAL_RISK_STEP_PRM	[1]	[7]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.1	8	1	LOWEST_PRM_SCORE	[1]	[7]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.1	8	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.1	8	1	LATEST_STEP	[1]	[8]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.1	8	1	UNIFORM_SPACING	[1]	[4]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.15	8	1	DECOUPLE	[1]	[3]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.15	8	1	LOCAL_RISK_STEP_PRM	[1]	[7]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.15	8	1	LOWEST_PRM_SCORE	[1]	[7]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.15	8	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.15	8	1	LATEST_STEP	[1]	[8]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.15	8	1	UNIFORM_SPACING	[1]	[4]	-1.0	-1.0	0.0
+BFCL	multi_turn_base_160	0.2	8	2	DECOUPLE	[1, 2]	[3, 2]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_160	0.2	8	2	LOCAL_RISK_STEP_PRM	[1, 2]	[7, 5]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_160	0.2	8	2	LOWEST_PRM_SCORE	[1, 2]	[7, 5]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_160	0.2	8	2	EARLIEST_STEP	[1, 2]	[1, 2]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_160	0.2	8	2	LATEST_STEP	[1, 2]	[7, 8]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_160	0.2	8	2	UNIFORM_SPACING	[1, 2]	[2, 6]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_160	0.25	8	2	DECOUPLE	[1, 2]	[3, 2]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_160	0.25	8	2	LOCAL_RISK_STEP_PRM	[1, 2]	[7, 5]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_160	0.25	8	2	LOWEST_PRM_SCORE	[1, 2]	[7, 5]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_160	0.25	8	2	EARLIEST_STEP	[1, 2]	[1, 2]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_160	0.25	8	2	LATEST_STEP	[1, 2]	[7, 8]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_160	0.25	8	2	UNIFORM_SPACING	[1, 2]	[2, 6]	-2.0	-2.0	0.0
+BFCL	multi_turn_base_176	0.05	6	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.05	6	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.05	6	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.05	6	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.05	6	1	LATEST_STEP	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.05	6	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.1	6	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.1	6	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.1	6	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.1	6	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.1	6	1	LATEST_STEP	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.1	6	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.15	6	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.15	6	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.15	6	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.15	6	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.15	6	1	LATEST_STEP	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.15	6	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.2	6	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.2	6	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.2	6	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.2	6	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.2	6	1	LATEST_STEP	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.2	6	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.25	6	2	DECOUPLE	[1, 2]	[2, 6]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.25	6	2	LOCAL_RISK_STEP_PRM	[1, 2]	[4, 5]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.25	6	2	LOWEST_PRM_SCORE	[1, 2]	[4, 5]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.25	6	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.25	6	2	LATEST_STEP	[1, 2]	[5, 6]	0.0	0.0	0.0
+BFCL	multi_turn_base_176	0.25	6	2	UNIFORM_SPACING	[1, 2]	[2, 5]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.05	6	1	DECOUPLE	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.05	6	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.05	6	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.05	6	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.05	6	1	LATEST_STEP	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.05	6	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.1	6	1	DECOUPLE	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.1	6	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.1	6	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.1	6	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.1	6	1	LATEST_STEP	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.1	6	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.15	6	1	DECOUPLE	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.15	6	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.15	6	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.15	6	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.15	6	1	LATEST_STEP	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.15	6	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.2	6	1	DECOUPLE	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.2	6	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.2	6	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.2	6	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.2	6	1	LATEST_STEP	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.2	6	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.25	6	2	DECOUPLE	[1, 2]	[6, 3]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.25	6	2	LOCAL_RISK_STEP_PRM	[1, 2]	[4, 6]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.25	6	2	LOWEST_PRM_SCORE	[1, 2]	[4, 6]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.25	6	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.25	6	2	LATEST_STEP	[1, 2]	[5, 6]	0.0	0.0	0.0
+BFCL	multi_turn_base_185	0.25	6	2	UNIFORM_SPACING	[1, 2]	[2, 5]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.05	7	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.05	7	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.05	7	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.05	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.05	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.05	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.1	7	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.1	7	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.1	7	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.1	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.1	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.1	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.15	7	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.15	7	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.15	7	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.15	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.15	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.15	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.2	7	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.2	7	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.2	7	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.2	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.2	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.2	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.25	7	2	DECOUPLE	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.25	7	2	LOCAL_RISK_STEP_PRM	[1, 2]	[1, 5]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.25	7	2	LOWEST_PRM_SCORE	[1, 2]	[1, 5]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.25	7	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.25	7	2	LATEST_STEP	[1, 2]	[6, 7]	0.0	0.0	0.0
+BFCL	multi_turn_base_47	0.25	7	2	UNIFORM_SPACING	[1, 2]	[2, 6]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.05	12	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.05	12	1	LOCAL_RISK_STEP_PRM	[1]	[11]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.05	12	1	LOWEST_PRM_SCORE	[1]	[11]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.05	12	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.05	12	1	LATEST_STEP	[1]	[12]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.05	12	1	UNIFORM_SPACING	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.1	12	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.1	12	1	LOCAL_RISK_STEP_PRM	[1]	[11]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.1	12	1	LOWEST_PRM_SCORE	[1]	[11]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.1	12	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.1	12	1	LATEST_STEP	[1]	[12]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.1	12	1	UNIFORM_SPACING	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.15	12	2	DECOUPLE	[1, 2]	[2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.15	12	2	LOCAL_RISK_STEP_PRM	[1, 2]	[11, 6]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.15	12	2	LOWEST_PRM_SCORE	[1, 2]	[11, 6]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.15	12	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.15	12	2	LATEST_STEP	[1, 2]	[11, 12]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.15	12	2	UNIFORM_SPACING	[1, 2]	[3, 9]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.2	12	2	DECOUPLE	[1, 2]	[2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.2	12	2	LOCAL_RISK_STEP_PRM	[1, 2]	[11, 6]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.2	12	2	LOWEST_PRM_SCORE	[1, 2]	[11, 6]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.2	12	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.2	12	2	LATEST_STEP	[1, 2]	[11, 12]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.2	12	2	UNIFORM_SPACING	[1, 2]	[3, 9]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.25	12	3	DECOUPLE	[1, 2, 3]	[2, 3, 12]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.25	12	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[11, 6, 8]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.25	12	3	LOWEST_PRM_SCORE	[1, 2, 3]	[11, 6, 8]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.25	12	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.25	12	3	LATEST_STEP	[1, 2, 3]	[10, 11, 12]	0.0	0.0	0.0
+BFCL	multi_turn_base_5	0.25	12	3	UNIFORM_SPACING	[1, 2, 3]	[2, 6, 10]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.05	5	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.05	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.05	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.05	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.05	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.05	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.1	5	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.1	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.1	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.1	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.1	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.1	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.15	5	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.15	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.15	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.15	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.15	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.15	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.2	5	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.2	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.2	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.2	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.2	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.2	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.25	5	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.25	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.25	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.25	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.25	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_11	0.25	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.05	5	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.05	5	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.05	5	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.05	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.05	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.05	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.1	5	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.1	5	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.1	5	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.1	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.1	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.1	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.15	5	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.15	5	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.15	5	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.15	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.15	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.15	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.2	5	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.2	5	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.2	5	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.2	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.2	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.2	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.25	5	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.25	5	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.25	5	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.25	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.25	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_159	0.25	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.05	10	1	DECOUPLE	[1]	[10]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.05	10	1	LOCAL_RISK_STEP_PRM	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.05	10	1	LOWEST_PRM_SCORE	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.05	10	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.05	10	1	LATEST_STEP	[1]	[10]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.05	10	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.1	10	1	DECOUPLE	[1]	[10]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.1	10	1	LOCAL_RISK_STEP_PRM	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.1	10	1	LOWEST_PRM_SCORE	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.1	10	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.1	10	1	LATEST_STEP	[1]	[10]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.1	10	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.15	10	2	DECOUPLE	[1, 2]	[10, 6]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.15	10	2	LOCAL_RISK_STEP_PRM	[1, 2]	[7, 6]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.15	10	2	LOWEST_PRM_SCORE	[1, 2]	[7, 6]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.15	10	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.15	10	2	LATEST_STEP	[1, 2]	[9, 10]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.15	10	2	UNIFORM_SPACING	[1, 2]	[3, 8]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.2	10	2	DECOUPLE	[1, 2]	[10, 6]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.2	10	2	LOCAL_RISK_STEP_PRM	[1, 2]	[7, 6]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.2	10	2	LOWEST_PRM_SCORE	[1, 2]	[7, 6]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.2	10	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.2	10	2	LATEST_STEP	[1, 2]	[9, 10]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.2	10	2	UNIFORM_SPACING	[1, 2]	[3, 8]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.25	10	3	DECOUPLE	[1, 2, 3]	[10, 6, 1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.25	10	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[7, 6, 4]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.25	10	3	LOWEST_PRM_SCORE	[1, 2, 3]	[7, 6, 4]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.25	10	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.25	10	3	LATEST_STEP	[1, 2, 3]	[8, 9, 10]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_193	0.25	10	3	UNIFORM_SPACING	[1, 2, 3]	[2, 5, 9]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.05	10	1	DECOUPLE	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.05	10	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.05	10	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.05	10	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.05	10	1	LATEST_STEP	[1]	[10]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_40	0.05	10	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.1	10	1	DECOUPLE	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.1	10	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.1	10	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.1	10	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.1	10	1	LATEST_STEP	[1]	[10]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_40	0.1	10	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.15	10	2	DECOUPLE	[1, 2]	[4, 9]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_40	0.15	10	2	LOCAL_RISK_STEP_PRM	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.15	10	2	LOWEST_PRM_SCORE	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.15	10	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.15	10	2	LATEST_STEP	[1, 2]	[9, 10]	0.0	-2.0	2.0
+BFCL	multi_turn_long_context_40	0.15	10	2	UNIFORM_SPACING	[1, 2]	[3, 8]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_40	0.2	10	2	DECOUPLE	[1, 2]	[4, 9]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_40	0.2	10	2	LOCAL_RISK_STEP_PRM	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.2	10	2	LOWEST_PRM_SCORE	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.2	10	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.2	10	2	LATEST_STEP	[1, 2]	[9, 10]	0.0	-2.0	2.0
+BFCL	multi_turn_long_context_40	0.2	10	2	UNIFORM_SPACING	[1, 2]	[3, 8]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_40	0.25	10	3	DECOUPLE	[1, 2, 3]	[4, 9, 1]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_40	0.25	10	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.25	10	3	LOWEST_PRM_SCORE	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.25	10	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_40	0.25	10	3	LATEST_STEP	[1, 2, 3]	[8, 9, 10]	0.0	-3.0	3.0
+BFCL	multi_turn_long_context_40	0.25	10	3	UNIFORM_SPACING	[1, 2, 3]	[2, 5, 9]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_87	0.05	14	1	DECOUPLE	[1]	[10]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.05	14	1	LOCAL_RISK_STEP_PRM	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.05	14	1	LOWEST_PRM_SCORE	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.05	14	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.05	14	1	LATEST_STEP	[1]	[14]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.05	14	1	UNIFORM_SPACING	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.1	14	1	DECOUPLE	[1]	[10]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.1	14	1	LOCAL_RISK_STEP_PRM	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.1	14	1	LOWEST_PRM_SCORE	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.1	14	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.1	14	1	LATEST_STEP	[1]	[14]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.1	14	1	UNIFORM_SPACING	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.15	14	2	DECOUPLE	[1, 2]	[10, 14]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.15	14	2	LOCAL_RISK_STEP_PRM	[1, 2]	[7, 11]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.15	14	2	LOWEST_PRM_SCORE	[1, 2]	[7, 11]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.15	14	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.15	14	2	LATEST_STEP	[1, 2]	[13, 14]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.15	14	2	UNIFORM_SPACING	[1, 2]	[4, 11]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.2	14	3	DECOUPLE	[1, 2, 3]	[10, 14, 3]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.2	14	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[7, 11, 13]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.2	14	3	LOWEST_PRM_SCORE	[1, 2, 3]	[7, 11, 13]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.2	14	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.2	14	3	LATEST_STEP	[1, 2, 3]	[12, 13, 14]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.2	14	3	UNIFORM_SPACING	[1, 2, 3]	[3, 7, 12]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.25	14	4	DECOUPLE	[1, 2, 3, 4]	[10, 14, 3, 2]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.25	14	4	LOCAL_RISK_STEP_PRM	[1, 2, 3, 4]	[7, 11, 13, 10]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.25	14	4	LOWEST_PRM_SCORE	[1, 2, 3, 4]	[7, 11, 13, 10]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.25	14	4	EARLIEST_STEP	[1, 2, 3, 4]	[1, 2, 3, 4]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.25	14	4	LATEST_STEP	[1, 2, 3, 4]	[11, 12, 13, 14]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_87	0.25	14	4	UNIFORM_SPACING	[1, 2, 3, 4]	[2, 6, 9, 13]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_94	0.05	11	1	DECOUPLE	[1]	[11]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_94	0.05	11	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_94	0.05	11	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_94	0.05	11	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_94	0.05	11	1	LATEST_STEP	[1]	[11]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_94	0.05	11	1	UNIFORM_SPACING	[1]	[6]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_94	0.1	11	1	DECOUPLE	[1]	[11]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_94	0.1	11	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_94	0.1	11	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_94	0.1	11	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_long_context_94	0.1	11	1	LATEST_STEP	[1]	[11]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_94	0.1	11	1	UNIFORM_SPACING	[1]	[6]	0.0	-1.0	1.0
+BFCL	multi_turn_long_context_94	0.15	11	2	DECOUPLE	[1, 2]	[11, 8]	-1.0	-2.0	1.0
+BFCL	multi_turn_long_context_94	0.15	11	2	LOCAL_RISK_STEP_PRM	[1, 2]	[6, 5]	-1.0	-2.0	1.0
+BFCL	multi_turn_long_context_94	0.15	11	2	LOWEST_PRM_SCORE	[1, 2]	[6, 5]	-1.0	-2.0	1.0
+BFCL	multi_turn_long_context_94	0.15	11	2	EARLIEST_STEP	[1, 2]	[1, 2]	-1.0	-1.0	0.0
+BFCL	multi_turn_long_context_94	0.15	11	2	LATEST_STEP	[1, 2]	[10, 11]	-1.0	-2.0	1.0
+BFCL	multi_turn_long_context_94	0.15	11	2	UNIFORM_SPACING	[1, 2]	[3, 9]	-1.0	-2.0	1.0
+BFCL	multi_turn_long_context_94	0.2	11	2	DECOUPLE	[1, 2]	[11, 8]	-1.0	-2.0	1.0
+BFCL	multi_turn_long_context_94	0.2	11	2	LOCAL_RISK_STEP_PRM	[1, 2]	[6, 5]	-1.0	-2.0	1.0
+BFCL	multi_turn_long_context_94	0.2	11	2	LOWEST_PRM_SCORE	[1, 2]	[6, 5]	-1.0	-2.0	1.0
+BFCL	multi_turn_long_context_94	0.2	11	2	EARLIEST_STEP	[1, 2]	[1, 2]	-1.0	-1.0	0.0
+BFCL	multi_turn_long_context_94	0.2	11	2	LATEST_STEP	[1, 2]	[10, 11]	-1.0	-2.0	1.0
+BFCL	multi_turn_long_context_94	0.2	11	2	UNIFORM_SPACING	[1, 2]	[3, 9]	-1.0	-2.0	1.0
+BFCL	multi_turn_long_context_94	0.25	11	3	DECOUPLE	[1, 2, 3]	[11, 8, 7]	-2.0	-3.0	1.0
+BFCL	multi_turn_long_context_94	0.25	11	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[6, 5, 8]	-2.0	-3.0	1.0
+BFCL	multi_turn_long_context_94	0.25	11	3	LOWEST_PRM_SCORE	[1, 2, 3]	[6, 5, 8]	-2.0	-3.0	1.0
+BFCL	multi_turn_long_context_94	0.25	11	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	-2.0	-2.0	0.0
+BFCL	multi_turn_long_context_94	0.25	11	3	LATEST_STEP	[1, 2, 3]	[9, 10, 11]	-2.0	-3.0	1.0
+BFCL	multi_turn_long_context_94	0.25	11	3	UNIFORM_SPACING	[1, 2, 3]	[2, 6, 10]	-2.0	-3.0	1.0
+BFCL	multi_turn_miss_func_138	0.05	10	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.05	10	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.05	10	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.05	10	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.05	10	1	LATEST_STEP	[1]	[10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.05	10	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.1	10	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.1	10	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.1	10	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.1	10	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.1	10	1	LATEST_STEP	[1]	[10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.1	10	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.15	10	2	DECOUPLE	[1, 2]	[5, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.15	10	2	LOCAL_RISK_STEP_PRM	[1, 2]	[4, 7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.15	10	2	LOWEST_PRM_SCORE	[1, 2]	[4, 7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.15	10	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.15	10	2	LATEST_STEP	[1, 2]	[9, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.15	10	2	UNIFORM_SPACING	[1, 2]	[3, 8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.2	10	2	DECOUPLE	[1, 2]	[5, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.2	10	2	LOCAL_RISK_STEP_PRM	[1, 2]	[4, 7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.2	10	2	LOWEST_PRM_SCORE	[1, 2]	[4, 7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.2	10	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.2	10	2	LATEST_STEP	[1, 2]	[9, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.2	10	2	UNIFORM_SPACING	[1, 2]	[3, 8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.25	10	3	DECOUPLE	[1, 2, 3]	[5, 10, 6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.25	10	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[4, 7, 1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.25	10	3	LOWEST_PRM_SCORE	[1, 2, 3]	[4, 7, 1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.25	10	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.25	10	3	LATEST_STEP	[1, 2, 3]	[8, 9, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_138	0.25	10	3	UNIFORM_SPACING	[1, 2, 3]	[2, 5, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.05	9	1	DECOUPLE	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.05	9	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.05	9	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.05	9	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.05	9	1	LATEST_STEP	[1]	[9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.05	9	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.1	9	1	DECOUPLE	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.1	9	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.1	9	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.1	9	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.1	9	1	LATEST_STEP	[1]	[9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.1	9	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.15	9	1	DECOUPLE	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.15	9	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.15	9	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.15	9	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.15	9	1	LATEST_STEP	[1]	[9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.15	9	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.2	9	2	DECOUPLE	[1, 2]	[7, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.2	9	2	LOCAL_RISK_STEP_PRM	[1, 2]	[6, 7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.2	9	2	LOWEST_PRM_SCORE	[1, 2]	[6, 7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.2	9	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.2	9	2	LATEST_STEP	[1, 2]	[8, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.2	9	2	UNIFORM_SPACING	[1, 2]	[3, 7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.25	9	2	DECOUPLE	[1, 2]	[7, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.25	9	2	LOCAL_RISK_STEP_PRM	[1, 2]	[6, 7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.25	9	2	LOWEST_PRM_SCORE	[1, 2]	[6, 7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.25	9	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.25	9	2	LATEST_STEP	[1, 2]	[8, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_171	0.25	9	2	UNIFORM_SPACING	[1, 2]	[3, 7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_182	0.05	4	1	DECOUPLE	[1]	[4]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.05	4	1	LOCAL_RISK_STEP_PRM	[1]	[3]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.05	4	1	LOWEST_PRM_SCORE	[1]	[3]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.05	4	1	EARLIEST_STEP	[1]	[1]	1.0	1.0	0.0
+BFCL	multi_turn_miss_func_182	0.05	4	1	LATEST_STEP	[1]	[4]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.05	4	1	UNIFORM_SPACING	[1]	[2]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.1	4	1	DECOUPLE	[1]	[4]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.1	4	1	LOCAL_RISK_STEP_PRM	[1]	[3]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.1	4	1	LOWEST_PRM_SCORE	[1]	[3]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.1	4	1	EARLIEST_STEP	[1]	[1]	1.0	1.0	0.0
+BFCL	multi_turn_miss_func_182	0.1	4	1	LATEST_STEP	[1]	[4]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.1	4	1	UNIFORM_SPACING	[1]	[2]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.15	4	1	DECOUPLE	[1]	[4]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.15	4	1	LOCAL_RISK_STEP_PRM	[1]	[3]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.15	4	1	LOWEST_PRM_SCORE	[1]	[3]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.15	4	1	EARLIEST_STEP	[1]	[1]	1.0	1.0	0.0
+BFCL	multi_turn_miss_func_182	0.15	4	1	LATEST_STEP	[1]	[4]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.15	4	1	UNIFORM_SPACING	[1]	[2]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.2	4	1	DECOUPLE	[1]	[4]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.2	4	1	LOCAL_RISK_STEP_PRM	[1]	[3]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.2	4	1	LOWEST_PRM_SCORE	[1]	[3]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.2	4	1	EARLIEST_STEP	[1]	[1]	1.0	1.0	0.0
+BFCL	multi_turn_miss_func_182	0.2	4	1	LATEST_STEP	[1]	[4]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.2	4	1	UNIFORM_SPACING	[1]	[2]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.25	4	1	DECOUPLE	[1]	[4]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.25	4	1	LOCAL_RISK_STEP_PRM	[1]	[3]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.25	4	1	LOWEST_PRM_SCORE	[1]	[3]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.25	4	1	EARLIEST_STEP	[1]	[1]	1.0	1.0	0.0
+BFCL	multi_turn_miss_func_182	0.25	4	1	LATEST_STEP	[1]	[4]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_182	0.25	4	1	UNIFORM_SPACING	[1]	[2]	1.0	0.0	1.0
+BFCL	multi_turn_miss_func_4	0.05	10	1	DECOUPLE	[1]	[10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.05	10	1	LOCAL_RISK_STEP_PRM	[1]	[8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.05	10	1	LOWEST_PRM_SCORE	[1]	[8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.05	10	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.05	10	1	LATEST_STEP	[1]	[10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.05	10	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.1	10	1	DECOUPLE	[1]	[10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.1	10	1	LOCAL_RISK_STEP_PRM	[1]	[8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.1	10	1	LOWEST_PRM_SCORE	[1]	[8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.1	10	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.1	10	1	LATEST_STEP	[1]	[10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.1	10	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.15	10	2	DECOUPLE	[1, 2]	[10, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.15	10	2	LOCAL_RISK_STEP_PRM	[1, 2]	[8, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.15	10	2	LOWEST_PRM_SCORE	[1, 2]	[8, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.15	10	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.15	10	2	LATEST_STEP	[1, 2]	[9, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.15	10	2	UNIFORM_SPACING	[1, 2]	[3, 8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.2	10	2	DECOUPLE	[1, 2]	[10, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.2	10	2	LOCAL_RISK_STEP_PRM	[1, 2]	[8, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.2	10	2	LOWEST_PRM_SCORE	[1, 2]	[8, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.2	10	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.2	10	2	LATEST_STEP	[1, 2]	[9, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.2	10	2	UNIFORM_SPACING	[1, 2]	[3, 8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.25	10	3	DECOUPLE	[1, 2, 3]	[10, 2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.25	10	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[8, 9, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.25	10	3	LOWEST_PRM_SCORE	[1, 2, 3]	[8, 9, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.25	10	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.25	10	3	LATEST_STEP	[1, 2, 3]	[8, 9, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_4	0.25	10	3	UNIFORM_SPACING	[1, 2, 3]	[2, 5, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.05	12	1	DECOUPLE	[1]	[12]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.05	12	1	LOCAL_RISK_STEP_PRM	[1]	[11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.05	12	1	LOWEST_PRM_SCORE	[1]	[11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.05	12	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.05	12	1	LATEST_STEP	[1]	[12]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.05	12	1	UNIFORM_SPACING	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.1	12	1	DECOUPLE	[1]	[12]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.1	12	1	LOCAL_RISK_STEP_PRM	[1]	[11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.1	12	1	LOWEST_PRM_SCORE	[1]	[11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.1	12	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.1	12	1	LATEST_STEP	[1]	[12]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.1	12	1	UNIFORM_SPACING	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.15	12	2	DECOUPLE	[1, 2]	[12, 7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.15	12	2	LOCAL_RISK_STEP_PRM	[1, 2]	[11, 8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.15	12	2	LOWEST_PRM_SCORE	[1, 2]	[11, 8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.15	12	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.15	12	2	LATEST_STEP	[1, 2]	[11, 12]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.15	12	2	UNIFORM_SPACING	[1, 2]	[3, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.2	12	2	DECOUPLE	[1, 2]	[12, 7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.2	12	2	LOCAL_RISK_STEP_PRM	[1, 2]	[11, 8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.2	12	2	LOWEST_PRM_SCORE	[1, 2]	[11, 8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.2	12	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.2	12	2	LATEST_STEP	[1, 2]	[11, 12]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.2	12	2	UNIFORM_SPACING	[1, 2]	[3, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.25	12	3	DECOUPLE	[1, 2, 3]	[12, 7, 1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.25	12	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[11, 8, 1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.25	12	3	LOWEST_PRM_SCORE	[1, 2, 3]	[11, 8, 1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.25	12	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.25	12	3	LATEST_STEP	[1, 2, 3]	[10, 11, 12]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_73	0.25	12	3	UNIFORM_SPACING	[1, 2, 3]	[2, 6, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.05	11	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.05	11	1	LOCAL_RISK_STEP_PRM	[1]	[10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.05	11	1	LOWEST_PRM_SCORE	[1]	[10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.05	11	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.05	11	1	LATEST_STEP	[1]	[11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.05	11	1	UNIFORM_SPACING	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.1	11	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.1	11	1	LOCAL_RISK_STEP_PRM	[1]	[10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.1	11	1	LOWEST_PRM_SCORE	[1]	[10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.1	11	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.1	11	1	LATEST_STEP	[1]	[11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.1	11	1	UNIFORM_SPACING	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.15	11	2	DECOUPLE	[1, 2]	[2, 1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.15	11	2	LOCAL_RISK_STEP_PRM	[1, 2]	[10, 8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.15	11	2	LOWEST_PRM_SCORE	[1, 2]	[10, 8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.15	11	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.15	11	2	LATEST_STEP	[1, 2]	[10, 11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.15	11	2	UNIFORM_SPACING	[1, 2]	[3, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.2	11	2	DECOUPLE	[1, 2]	[2, 1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.2	11	2	LOCAL_RISK_STEP_PRM	[1, 2]	[10, 8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.2	11	2	LOWEST_PRM_SCORE	[1, 2]	[10, 8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.2	11	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.2	11	2	LATEST_STEP	[1, 2]	[10, 11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.2	11	2	UNIFORM_SPACING	[1, 2]	[3, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.25	11	3	DECOUPLE	[1, 2, 3]	[2, 1, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.25	11	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[10, 8, 1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.25	11	3	LOWEST_PRM_SCORE	[1, 2, 3]	[10, 8, 1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.25	11	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.25	11	3	LATEST_STEP	[1, 2, 3]	[9, 10, 11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_func_81	0.25	11	3	UNIFORM_SPACING	[1, 2, 3]	[2, 6, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.05	9	1	DECOUPLE	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.05	9	1	LOCAL_RISK_STEP_PRM	[1]	[8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.05	9	1	LOWEST_PRM_SCORE	[1]	[8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.05	9	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.05	9	1	LATEST_STEP	[1]	[9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.05	9	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.1	9	1	DECOUPLE	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.1	9	1	LOCAL_RISK_STEP_PRM	[1]	[8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.1	9	1	LOWEST_PRM_SCORE	[1]	[8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.1	9	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.1	9	1	LATEST_STEP	[1]	[9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.1	9	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.15	9	1	DECOUPLE	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.15	9	1	LOCAL_RISK_STEP_PRM	[1]	[8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.15	9	1	LOWEST_PRM_SCORE	[1]	[8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.15	9	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.15	9	1	LATEST_STEP	[1]	[9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.15	9	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.2	9	2	DECOUPLE	[1, 2]	[6, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.2	9	2	LOCAL_RISK_STEP_PRM	[1, 2]	[8, 6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.2	9	2	LOWEST_PRM_SCORE	[1, 2]	[8, 6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.2	9	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.2	9	2	LATEST_STEP	[1, 2]	[8, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.2	9	2	UNIFORM_SPACING	[1, 2]	[3, 7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.25	9	2	DECOUPLE	[1, 2]	[6, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.25	9	2	LOCAL_RISK_STEP_PRM	[1, 2]	[8, 6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.25	9	2	LOWEST_PRM_SCORE	[1, 2]	[8, 6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.25	9	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.25	9	2	LATEST_STEP	[1, 2]	[8, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_122	0.25	9	2	UNIFORM_SPACING	[1, 2]	[3, 7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.05	13	1	DECOUPLE	[1]	[13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.05	13	1	LOCAL_RISK_STEP_PRM	[1]	[11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.05	13	1	LOWEST_PRM_SCORE	[1]	[11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.05	13	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.05	13	1	LATEST_STEP	[1]	[13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.05	13	1	UNIFORM_SPACING	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.1	13	1	DECOUPLE	[1]	[13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.1	13	1	LOCAL_RISK_STEP_PRM	[1]	[11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.1	13	1	LOWEST_PRM_SCORE	[1]	[11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.1	13	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.1	13	1	LATEST_STEP	[1]	[13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.1	13	1	UNIFORM_SPACING	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.15	13	2	DECOUPLE	[1, 2]	[13, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.15	13	2	LOCAL_RISK_STEP_PRM	[1, 2]	[11, 8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.15	13	2	LOWEST_PRM_SCORE	[1, 2]	[11, 8]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.15	13	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.15	13	2	LATEST_STEP	[1, 2]	[12, 13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.15	13	2	UNIFORM_SPACING	[1, 2]	[4, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.2	13	3	DECOUPLE	[1, 2, 3]	[13, 2, 5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.2	13	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[11, 8, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.2	13	3	LOWEST_PRM_SCORE	[1, 2, 3]	[11, 8, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.2	13	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.2	13	3	LATEST_STEP	[1, 2, 3]	[11, 12, 13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.2	13	3	UNIFORM_SPACING	[1, 2, 3]	[3, 7, 11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.25	13	3	DECOUPLE	[1, 2, 3]	[13, 2, 5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.25	13	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[11, 8, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.25	13	3	LOWEST_PRM_SCORE	[1, 2, 3]	[11, 8, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.25	13	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.25	13	3	LATEST_STEP	[1, 2, 3]	[11, 12, 13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_125	0.25	13	3	UNIFORM_SPACING	[1, 2, 3]	[3, 7, 11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_150	0.05	7	1	DECOUPLE	[2]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_150	0.05	7	1	LOCAL_RISK_STEP_PRM	[2]	[5]	0.0	-1.0	1.0
+BFCL	multi_turn_miss_param_150	0.05	7	1	LOWEST_PRM_SCORE	[2]	[5]	0.0	-1.0	1.0
+BFCL	multi_turn_miss_param_150	0.05	7	1	EARLIEST_STEP	[2]	[1]	0.0	-1.0	1.0
+BFCL	multi_turn_miss_param_150	0.05	7	1	LATEST_STEP	[2]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_150	0.05	7	1	UNIFORM_SPACING	[2]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_150	0.1	7	1	DECOUPLE	[2]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_150	0.1	7	1	LOCAL_RISK_STEP_PRM	[2]	[5]	0.0	-1.0	1.0
+BFCL	multi_turn_miss_param_150	0.1	7	1	LOWEST_PRM_SCORE	[2]	[5]	0.0	-1.0	1.0
+BFCL	multi_turn_miss_param_150	0.1	7	1	EARLIEST_STEP	[2]	[1]	0.0	-1.0	1.0
+BFCL	multi_turn_miss_param_150	0.1	7	1	LATEST_STEP	[2]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_150	0.1	7	1	UNIFORM_SPACING	[2]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_150	0.15	7	1	DECOUPLE	[2]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_150	0.15	7	1	LOCAL_RISK_STEP_PRM	[2]	[5]	0.0	-1.0	1.0
+BFCL	multi_turn_miss_param_150	0.15	7	1	LOWEST_PRM_SCORE	[2]	[5]	0.0	-1.0	1.0
+BFCL	multi_turn_miss_param_150	0.15	7	1	EARLIEST_STEP	[2]	[1]	0.0	-1.0	1.0
+BFCL	multi_turn_miss_param_150	0.15	7	1	LATEST_STEP	[2]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_150	0.15	7	1	UNIFORM_SPACING	[2]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_150	0.2	7	1	DECOUPLE	[2]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_150	0.2	7	1	LOCAL_RISK_STEP_PRM	[2]	[5]	0.0	-1.0	1.0
+BFCL	multi_turn_miss_param_150	0.2	7	1	LOWEST_PRM_SCORE	[2]	[5]	0.0	-1.0	1.0
+BFCL	multi_turn_miss_param_150	0.2	7	1	EARLIEST_STEP	[2]	[1]	0.0	-1.0	1.0
+BFCL	multi_turn_miss_param_150	0.2	7	1	LATEST_STEP	[2]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_150	0.2	7	1	UNIFORM_SPACING	[2]	[4]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_150	0.25	7	2	DECOUPLE	[2, 3]	[7, 1]	0.0	-1.0	1.0
+BFCL	multi_turn_miss_param_150	0.25	7	2	LOCAL_RISK_STEP_PRM	[2, 3]	[5, 6]	0.0	-2.0	2.0
+BFCL	multi_turn_miss_param_150	0.25	7	2	LOWEST_PRM_SCORE	[2, 3]	[5, 6]	0.0	-2.0	2.0
+BFCL	multi_turn_miss_param_150	0.25	7	2	EARLIEST_STEP	[2, 3]	[1, 2]	0.0	-1.0	1.0
+BFCL	multi_turn_miss_param_150	0.25	7	2	LATEST_STEP	[2, 3]	[6, 7]	0.0	-1.0	1.0
+BFCL	multi_turn_miss_param_150	0.25	7	2	UNIFORM_SPACING	[2, 3]	[2, 6]	0.0	-1.0	1.0
+BFCL	multi_turn_miss_param_162	0.05	13	1	DECOUPLE	[1]	[13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.05	13	1	LOCAL_RISK_STEP_PRM	[1]	[12]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.05	13	1	LOWEST_PRM_SCORE	[1]	[12]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.05	13	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.05	13	1	LATEST_STEP	[1]	[13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.05	13	1	UNIFORM_SPACING	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.1	13	1	DECOUPLE	[1]	[13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.1	13	1	LOCAL_RISK_STEP_PRM	[1]	[12]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.1	13	1	LOWEST_PRM_SCORE	[1]	[12]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.1	13	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.1	13	1	LATEST_STEP	[1]	[13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.1	13	1	UNIFORM_SPACING	[1]	[7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.15	13	2	DECOUPLE	[1, 2]	[13, 1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.15	13	2	LOCAL_RISK_STEP_PRM	[1, 2]	[12, 6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.15	13	2	LOWEST_PRM_SCORE	[1, 2]	[12, 6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.15	13	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.15	13	2	LATEST_STEP	[1, 2]	[12, 13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.15	13	2	UNIFORM_SPACING	[1, 2]	[4, 10]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.2	13	3	DECOUPLE	[1, 2, 3]	[13, 1, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.2	13	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[12, 6, 13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.2	13	3	LOWEST_PRM_SCORE	[1, 2, 3]	[12, 6, 13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.2	13	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.2	13	3	LATEST_STEP	[1, 2, 3]	[11, 12, 13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.2	13	3	UNIFORM_SPACING	[1, 2, 3]	[3, 7, 11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.25	13	3	DECOUPLE	[1, 2, 3]	[13, 1, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.25	13	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[12, 6, 13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.25	13	3	LOWEST_PRM_SCORE	[1, 2, 3]	[12, 6, 13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.25	13	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.25	13	3	LATEST_STEP	[1, 2, 3]	[11, 12, 13]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_162	0.25	13	3	UNIFORM_SPACING	[1, 2, 3]	[3, 7, 11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.05	5	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.05	5	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.05	5	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.05	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.05	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.05	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.1	5	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.1	5	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.1	5	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.1	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.1	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.1	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.15	5	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.15	5	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.15	5	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.15	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.15	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.15	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.2	5	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.2	5	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.2	5	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.2	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.2	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.2	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.25	5	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.25	5	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.25	5	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.25	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.25	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_198	0.25	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.05	11	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.05	11	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.05	11	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.05	11	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.05	11	1	LATEST_STEP	[1]	[11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.05	11	1	UNIFORM_SPACING	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.1	11	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.1	11	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.1	11	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.1	11	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.1	11	1	LATEST_STEP	[1]	[11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.1	11	1	UNIFORM_SPACING	[1]	[6]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.15	11	2	DECOUPLE	[1, 2]	[2, 7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.15	11	2	LOCAL_RISK_STEP_PRM	[1, 2]	[2, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.15	11	2	LOWEST_PRM_SCORE	[1, 2]	[2, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.15	11	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.15	11	2	LATEST_STEP	[1, 2]	[10, 11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.15	11	2	UNIFORM_SPACING	[1, 2]	[3, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.2	11	2	DECOUPLE	[1, 2]	[2, 7]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.2	11	2	LOCAL_RISK_STEP_PRM	[1, 2]	[2, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.2	11	2	LOWEST_PRM_SCORE	[1, 2]	[2, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.2	11	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.2	11	2	LATEST_STEP	[1, 2]	[10, 11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.2	11	2	UNIFORM_SPACING	[1, 2]	[3, 9]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.25	11	3	DECOUPLE	[1, 2, 3]	[2, 7, 11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.25	11	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[2, 9, 5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.25	11	3	LOWEST_PRM_SCORE	[1, 2, 3]	[2, 9, 5]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.25	11	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.25	11	3	LATEST_STEP	[1, 2, 3]	[9, 10, 11]	0.0	0.0	0.0
+BFCL	multi_turn_miss_param_28	0.25	11	3	UNIFORM_SPACING	[1, 2, 3]	[2, 6, 10]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.05	2	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.05	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.05	2	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.05	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.05	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.05	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.1	2	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.1	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.1	2	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.1	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.1	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.1	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.15	2	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.15	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.15	2	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.15	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.15	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.15	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.2	2	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.2	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.2	2	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.2	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.2	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.2	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.25	2	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.25	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.25	2	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.25	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.25	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_007276	0.25	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.05	5	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.05	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.05	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.05	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.05	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.05	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.1	5	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.1	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.1	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.1	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.1	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.1	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.15	5	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.15	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.15	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.15	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.15	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.15	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.2	5	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.2	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.2	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.2	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.2	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.2	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.25	5	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.25	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.25	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.25	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.25	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_021697	0.25	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.05	5	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.05	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.05	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.05	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.05	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.05	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.1	5	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.1	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.1	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.1	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.1	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.1	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.15	5	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.15	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.15	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.15	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.15	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.15	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.2	5	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.2	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.2	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.2	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.2	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.2	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.25	5	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.25	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.25	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.25	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.25	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_029715	0.25	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.05	5	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.05	5	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.05	5	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.05	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.05	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.05	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.1	5	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.1	5	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.1	5	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.1	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.1	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.1	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.15	5	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.15	5	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.15	5	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.15	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.15	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.15	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.2	5	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.2	5	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.2	5	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.2	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.2	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.2	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.25	5	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.25	5	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.25	5	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.25	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.25	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_035515	0.25	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.05	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.05	3	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.05	3	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.05	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.05	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.05	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.1	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.1	3	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.1	3	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.1	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.1	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.1	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.15	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.15	3	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.15	3	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.15	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.15	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.15	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.2	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.2	3	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.2	3	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.2	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.2	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.2	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.25	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.25	3	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.25	3	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.25	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.25	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_036745	0.25	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.05	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.05	3	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.05	3	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.05	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.05	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.05	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.1	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.1	3	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.1	3	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.1	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.1	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.1	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.15	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.15	3	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.15	3	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.15	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.15	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.15	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.2	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.2	3	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.2	3	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.2	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.2	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.2	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.25	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.25	3	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.25	3	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.25	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.25	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084155	0.25	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.05	2	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.05	2	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.05	2	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.05	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.05	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.05	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.1	2	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.1	2	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.1	2	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.1	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.1	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.1	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.15	2	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.15	2	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.15	2	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.15	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.15	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.15	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.2	2	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.2	2	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.2	2	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.2	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.2	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.2	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.25	2	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.25	2	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.25	2	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.25	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.25	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_084994	0.25	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.05	2	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.05	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.05	2	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.05	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.05	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.05	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.1	2	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.1	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.1	2	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.1	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.1	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.1	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.15	2	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.15	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.15	2	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.15	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.15	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.15	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.2	2	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.2	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.2	2	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.2	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.2	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.2	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.25	2	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.25	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.25	2	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.25	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.25	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_101306	0.25	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.05	3	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.05	3	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.05	3	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.05	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.05	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.05	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.1	3	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.1	3	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.1	3	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.1	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.1	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.1	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.15	3	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.15	3	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.15	3	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.15	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.15	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.15	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.2	3	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.2	3	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.2	3	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.2	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.2	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.2	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.25	3	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.25	3	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.25	3	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.25	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.25	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_105972	0.25	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.05	2	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.05	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.05	2	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.05	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.05	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.05	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.1	2	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.1	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.1	2	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.1	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.1	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.1	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.15	2	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.15	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.15	2	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.15	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.15	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.15	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.2	2	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.2	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.2	2	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.2	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.2	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.2	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.25	2	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.25	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.25	2	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.25	2	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.25	2	1	LATEST_STEP	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_115593	0.25	2	1	UNIFORM_SPACING	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.05	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.05	2	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.05	2	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.05	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.05	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.05	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.1	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.1	2	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.1	2	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.1	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.1	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.1	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.15	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.15	2	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.15	2	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.15	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.15	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.15	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.2	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.2	2	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.2	2	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.2	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.2	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.2	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.25	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.25	2	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.25	2	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.25	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.25	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_139885	0.25	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.05	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.05	2	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.05	2	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.05	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.05	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.05	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.1	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.1	2	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.1	2	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.1	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.1	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.1	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.15	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.15	2	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.15	2	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.15	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.15	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.15	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.2	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.2	2	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.2	2	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.2	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.2	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.2	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.25	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.25	2	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.25	2	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.25	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.25	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_140581	0.25	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.05	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.05	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.05	2	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.05	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.05	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.05	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.1	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.1	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.1	2	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.1	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.1	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.1	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.15	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.15	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.15	2	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.15	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.15	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.15	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.2	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.2	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.2	2	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.2	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.2	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.2	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.25	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.25	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.25	2	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.25	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.25	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_141835	0.25	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.05	3	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.05	3	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.05	3	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.05	3	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.05	3	1	LATEST_STEP	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.05	3	1	UNIFORM_SPACING	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.1	3	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.1	3	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.1	3	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.1	3	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.1	3	1	LATEST_STEP	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.1	3	1	UNIFORM_SPACING	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.15	3	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.15	3	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.15	3	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.15	3	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.15	3	1	LATEST_STEP	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.15	3	1	UNIFORM_SPACING	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.2	3	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.2	3	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.2	3	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.2	3	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.2	3	1	LATEST_STEP	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.2	3	1	UNIFORM_SPACING	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.25	3	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.25	3	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.25	3	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.25	3	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.25	3	1	LATEST_STEP	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143767	0.25	3	1	UNIFORM_SPACING	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.05	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.05	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.05	2	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.05	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.05	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.05	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.1	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.1	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.1	2	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.1	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.1	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.1	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.15	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.15	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.15	2	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.15	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.15	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.15	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.2	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.2	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.2	2	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.2	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.2	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.2	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.25	2	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.25	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.25	2	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.25	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.25	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_143932	0.25	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.05	2	1	DECOUPLE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.05	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.05	2	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.05	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.05	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.05	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.1	2	1	DECOUPLE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.1	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.1	2	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.1	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.1	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.1	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.15	2	1	DECOUPLE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.15	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.15	2	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.15	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.15	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.15	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.2	2	1	DECOUPLE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.2	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.2	2	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.2	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.2	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.2	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.25	2	1	DECOUPLE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.25	2	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.25	2	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.25	2	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.25	2	1	LATEST_STEP	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_159242	0.25	2	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.05	3	1	DECOUPLE	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.05	3	1	LOCAL_RISK_STEP_PRM	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.05	3	1	LOWEST_PRM_SCORE	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.05	3	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.05	3	1	LATEST_STEP	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.05	3	1	UNIFORM_SPACING	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.1	3	1	DECOUPLE	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.1	3	1	LOCAL_RISK_STEP_PRM	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.1	3	1	LOWEST_PRM_SCORE	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.1	3	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.1	3	1	LATEST_STEP	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.1	3	1	UNIFORM_SPACING	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.15	3	1	DECOUPLE	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.15	3	1	LOCAL_RISK_STEP_PRM	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.15	3	1	LOWEST_PRM_SCORE	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.15	3	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.15	3	1	LATEST_STEP	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.15	3	1	UNIFORM_SPACING	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.2	3	1	DECOUPLE	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.2	3	1	LOCAL_RISK_STEP_PRM	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.2	3	1	LOWEST_PRM_SCORE	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.2	3	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.2	3	1	LATEST_STEP	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.2	3	1	UNIFORM_SPACING	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.25	3	1	DECOUPLE	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.25	3	1	LOCAL_RISK_STEP_PRM	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.25	3	1	LOWEST_PRM_SCORE	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.25	3	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.25	3	1	LATEST_STEP	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_162443	0.25	3	1	UNIFORM_SPACING	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.05	15	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.05	15	1	LOCAL_RISK_STEP_PRM	[1]	[10]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.05	15	1	LOWEST_PRM_SCORE	[1]	[10]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.05	15	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.05	15	1	LATEST_STEP	[1]	[15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.05	15	1	UNIFORM_SPACING	[1]	[8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.1	15	2	DECOUPLE	[1, 2]	[2, 1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.1	15	2	LOCAL_RISK_STEP_PRM	[1, 2]	[10, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.1	15	2	LOWEST_PRM_SCORE	[1, 2]	[10, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.1	15	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.1	15	2	LATEST_STEP	[1, 2]	[14, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.1	15	2	UNIFORM_SPACING	[1, 2]	[4, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.15	15	2	DECOUPLE	[1, 2]	[2, 1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.15	15	2	LOCAL_RISK_STEP_PRM	[1, 2]	[10, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.15	15	2	LOWEST_PRM_SCORE	[1, 2]	[10, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.15	15	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.15	15	2	LATEST_STEP	[1, 2]	[14, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.15	15	2	UNIFORM_SPACING	[1, 2]	[4, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.2	15	3	DECOUPLE	[1, 2, 3]	[2, 1, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.2	15	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[10, 12, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.2	15	3	LOWEST_PRM_SCORE	[1, 2, 3]	[10, 12, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.2	15	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.2	15	3	LATEST_STEP	[1, 2, 3]	[13, 14, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.2	15	3	UNIFORM_SPACING	[1, 2, 3]	[3, 8, 13]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.25	15	4	DECOUPLE	[1, 2, 3, 4]	[2, 1, 4, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.25	15	4	LOCAL_RISK_STEP_PRM	[1, 2, 3, 4]	[10, 12, 15, 14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.25	15	4	LOWEST_PRM_SCORE	[1, 2, 3, 4]	[10, 12, 15, 14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.25	15	4	EARLIEST_STEP	[1, 2, 3, 4]	[1, 2, 3, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.25	15	4	LATEST_STEP	[1, 2, 3, 4]	[12, 13, 14, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172481	0.25	15	4	UNIFORM_SPACING	[1, 2, 3, 4]	[2, 6, 10, 14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.05	4	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.05	4	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.05	4	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.05	4	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.05	4	1	LATEST_STEP	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.05	4	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.1	4	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.1	4	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.1	4	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.1	4	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.1	4	1	LATEST_STEP	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.1	4	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.15	4	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.15	4	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.15	4	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.15	4	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.15	4	1	LATEST_STEP	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.15	4	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.2	4	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.2	4	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.2	4	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.2	4	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.2	4	1	LATEST_STEP	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.2	4	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.25	4	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.25	4	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.25	4	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.25	4	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.25	4	1	LATEST_STEP	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_172946	0.25	4	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.05	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.05	3	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.05	3	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.05	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.05	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.05	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.1	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.1	3	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.1	3	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.1	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.1	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.1	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.15	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.15	3	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.15	3	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.15	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.15	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.15	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.2	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.2	3	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.2	3	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.2	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.2	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.2	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.25	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.25	3	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.25	3	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.25	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.25	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_200022	0.25	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.05	6	1	DECOUPLE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.05	6	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.05	6	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.05	6	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.05	6	1	LATEST_STEP	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.05	6	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.1	6	1	DECOUPLE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.1	6	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.1	6	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.1	6	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.1	6	1	LATEST_STEP	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.1	6	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.15	6	1	DECOUPLE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.15	6	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.15	6	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.15	6	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.15	6	1	LATEST_STEP	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.15	6	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.2	6	1	DECOUPLE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.2	6	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.2	6	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.2	6	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.2	6	1	LATEST_STEP	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.2	6	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.25	6	2	DECOUPLE	[1, 2]	[4, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.25	6	2	LOCAL_RISK_STEP_PRM	[1, 2]	[5, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.25	6	2	LOWEST_PRM_SCORE	[1, 2]	[5, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.25	6	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.25	6	2	LATEST_STEP	[1, 2]	[5, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211036	0.25	6	2	UNIFORM_SPACING	[1, 2]	[2, 5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.05	13	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.05	13	1	LOCAL_RISK_STEP_PRM	[1]	[9]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.05	13	1	LOWEST_PRM_SCORE	[1]	[9]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.05	13	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.05	13	1	LATEST_STEP	[1]	[13]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.05	13	1	UNIFORM_SPACING	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.1	13	1	DECOUPLE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.1	13	1	LOCAL_RISK_STEP_PRM	[1]	[9]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.1	13	1	LOWEST_PRM_SCORE	[1]	[9]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.1	13	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.1	13	1	LATEST_STEP	[1]	[13]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.1	13	1	UNIFORM_SPACING	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.15	13	2	DECOUPLE	[1, 2]	[5, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.15	13	2	LOCAL_RISK_STEP_PRM	[1, 2]	[9, 11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.15	13	2	LOWEST_PRM_SCORE	[1, 2]	[9, 11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.15	13	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.15	13	2	LATEST_STEP	[1, 2]	[12, 13]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.15	13	2	UNIFORM_SPACING	[1, 2]	[4, 10]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.2	13	3	DECOUPLE	[1, 2, 3]	[5, 7, 1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.2	13	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[9, 11, 1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.2	13	3	LOWEST_PRM_SCORE	[1, 2, 3]	[9, 11, 1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.2	13	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.2	13	3	LATEST_STEP	[1, 2, 3]	[11, 12, 13]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.2	13	3	UNIFORM_SPACING	[1, 2, 3]	[3, 7, 11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.25	13	3	DECOUPLE	[1, 2, 3]	[5, 7, 1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.25	13	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[9, 11, 1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.25	13	3	LOWEST_PRM_SCORE	[1, 2, 3]	[9, 11, 1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.25	13	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.25	13	3	LATEST_STEP	[1, 2, 3]	[11, 12, 13]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_211974	0.25	13	3	UNIFORM_SPACING	[1, 2, 3]	[3, 7, 11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.05	6	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.05	6	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.05	6	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.05	6	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.05	6	1	LATEST_STEP	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.05	6	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.1	6	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.1	6	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.1	6	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.1	6	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.1	6	1	LATEST_STEP	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.1	6	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.15	6	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.15	6	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.15	6	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.15	6	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.15	6	1	LATEST_STEP	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.15	6	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.2	6	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.2	6	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.2	6	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.2	6	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.2	6	1	LATEST_STEP	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.2	6	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.25	6	2	DECOUPLE	[1, 2]	[1, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.25	6	2	LOCAL_RISK_STEP_PRM	[1, 2]	[6, 5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.25	6	2	LOWEST_PRM_SCORE	[1, 2]	[6, 5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.25	6	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.25	6	2	LATEST_STEP	[1, 2]	[5, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_214779	0.25	6	2	UNIFORM_SPACING	[1, 2]	[2, 5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.05	7	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.05	7	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.05	7	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.05	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.05	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.05	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.1	7	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.1	7	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.1	7	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.1	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.1	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.1	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.15	7	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.15	7	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.15	7	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.15	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.15	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.15	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.2	7	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.2	7	1	LOCAL_RISK_STEP_PRM	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.2	7	1	LOWEST_PRM_SCORE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.2	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.2	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.2	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.25	7	2	DECOUPLE	[1, 2]	[1, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.25	7	2	LOCAL_RISK_STEP_PRM	[1, 2]	[1, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.25	7	2	LOWEST_PRM_SCORE	[1, 2]	[1, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.25	7	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.25	7	2	LATEST_STEP	[1, 2]	[6, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_217279	0.25	7	2	UNIFORM_SPACING	[1, 2]	[2, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_239263	0.05	13	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_239263	0.05	13	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_239263	0.05	13	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_239263	0.05	13	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_239263	0.05	13	1	LATEST_STEP	[1]	[13]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_239263	0.05	13	1	UNIFORM_SPACING	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_239263	0.1	13	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_239263	0.1	13	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_239263	0.1	13	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_239263	0.1	13	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_239263	0.1	13	1	LATEST_STEP	[1]	[13]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_239263	0.1	13	1	UNIFORM_SPACING	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_239263	0.15	13	2	DECOUPLE	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_239263	0.15	13	2	LOCAL_RISK_STEP_PRM	[1, 2]	[5, 11]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_239263	0.15	13	2	LOWEST_PRM_SCORE	[1, 2]	[5, 11]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_239263	0.15	13	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_239263	0.15	13	2	LATEST_STEP	[1, 2]	[12, 13]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_239263	0.15	13	2	UNIFORM_SPACING	[1, 2]	[4, 10]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_239263	0.2	13	3	DECOUPLE	[1, 2, 3]	[1, 2, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_239263	0.2	13	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[5, 11, 4]	0.0	-3.0	3.0
+MATH_SHEPHERD	math_shepherd_239263	0.2	13	3	LOWEST_PRM_SCORE	[1, 2, 3]	[5, 11, 4]	0.0	-3.0	3.0
+MATH_SHEPHERD	math_shepherd_239263	0.2	13	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_239263	0.2	13	3	LATEST_STEP	[1, 2, 3]	[11, 12, 13]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_239263	0.2	13	3	UNIFORM_SPACING	[1, 2, 3]	[3, 7, 11]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_239263	0.25	13	3	DECOUPLE	[1, 2, 3]	[1, 2, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_239263	0.25	13	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[5, 11, 4]	0.0	-3.0	3.0
+MATH_SHEPHERD	math_shepherd_239263	0.25	13	3	LOWEST_PRM_SCORE	[1, 2, 3]	[5, 11, 4]	0.0	-3.0	3.0
+MATH_SHEPHERD	math_shepherd_239263	0.25	13	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_239263	0.25	13	3	LATEST_STEP	[1, 2, 3]	[11, 12, 13]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_239263	0.25	13	3	UNIFORM_SPACING	[1, 2, 3]	[3, 7, 11]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_245394	0.05	15	1	DECOUPLE	[2]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_245394	0.05	15	1	LOCAL_RISK_STEP_PRM	[2]	[13]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_245394	0.05	15	1	LOWEST_PRM_SCORE	[2]	[13]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_245394	0.05	15	1	EARLIEST_STEP	[2]	[1]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_245394	0.05	15	1	LATEST_STEP	[2]	[15]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_245394	0.05	15	1	UNIFORM_SPACING	[2]	[8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_245394	0.1	15	2	DECOUPLE	[2, 3]	[2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_245394	0.1	15	2	LOCAL_RISK_STEP_PRM	[2, 3]	[13, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_245394	0.1	15	2	LOWEST_PRM_SCORE	[2, 3]	[13, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_245394	0.1	15	2	EARLIEST_STEP	[2, 3]	[1, 2]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_245394	0.1	15	2	LATEST_STEP	[2, 3]	[14, 15]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_245394	0.1	15	2	UNIFORM_SPACING	[2, 3]	[4, 12]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_245394	0.15	15	2	DECOUPLE	[2, 3]	[2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_245394	0.15	15	2	LOCAL_RISK_STEP_PRM	[2, 3]	[13, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_245394	0.15	15	2	LOWEST_PRM_SCORE	[2, 3]	[13, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_245394	0.15	15	2	EARLIEST_STEP	[2, 3]	[1, 2]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_245394	0.15	15	2	LATEST_STEP	[2, 3]	[14, 15]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_245394	0.15	15	2	UNIFORM_SPACING	[2, 3]	[4, 12]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_245394	0.2	15	3	DECOUPLE	[2, 3, 4]	[2, 3, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_245394	0.2	15	3	LOCAL_RISK_STEP_PRM	[2, 3, 4]	[13, 7, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_245394	0.2	15	3	LOWEST_PRM_SCORE	[2, 3, 4]	[13, 7, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_245394	0.2	15	3	EARLIEST_STEP	[2, 3, 4]	[1, 2, 3]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_245394	0.2	15	3	LATEST_STEP	[2, 3, 4]	[13, 14, 15]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_245394	0.2	15	3	UNIFORM_SPACING	[2, 3, 4]	[3, 8, 13]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_245394	0.25	15	4	DECOUPLE	[2, 3, 4, 5]	[2, 3, 6, 5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_245394	0.25	15	4	LOCAL_RISK_STEP_PRM	[2, 3, 4, 5]	[13, 7, 3, 14]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_245394	0.25	15	4	LOWEST_PRM_SCORE	[2, 3, 4, 5]	[13, 7, 3, 14]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_245394	0.25	15	4	EARLIEST_STEP	[2, 3, 4, 5]	[1, 2, 3, 4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_245394	0.25	15	4	LATEST_STEP	[2, 3, 4, 5]	[12, 13, 14, 15]	0.0	-3.0	3.0
+MATH_SHEPHERD	math_shepherd_245394	0.25	15	4	UNIFORM_SPACING	[2, 3, 4, 5]	[2, 6, 10, 14]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_253227	0.05	11	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253227	0.05	11	1	LOCAL_RISK_STEP_PRM	[1]	[11]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253227	0.05	11	1	LOWEST_PRM_SCORE	[1]	[11]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253227	0.05	11	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253227	0.05	11	1	LATEST_STEP	[1]	[11]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253227	0.05	11	1	UNIFORM_SPACING	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253227	0.1	11	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253227	0.1	11	1	LOCAL_RISK_STEP_PRM	[1]	[11]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253227	0.1	11	1	LOWEST_PRM_SCORE	[1]	[11]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253227	0.1	11	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253227	0.1	11	1	LATEST_STEP	[1]	[11]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253227	0.1	11	1	UNIFORM_SPACING	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253227	0.15	11	2	DECOUPLE	[1, 2]	[2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253227	0.15	11	2	LOCAL_RISK_STEP_PRM	[1, 2]	[11, 7]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253227	0.15	11	2	LOWEST_PRM_SCORE	[1, 2]	[11, 7]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253227	0.15	11	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253227	0.15	11	2	LATEST_STEP	[1, 2]	[10, 11]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_253227	0.15	11	2	UNIFORM_SPACING	[1, 2]	[3, 9]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253227	0.2	11	2	DECOUPLE	[1, 2]	[2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253227	0.2	11	2	LOCAL_RISK_STEP_PRM	[1, 2]	[11, 7]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253227	0.2	11	2	LOWEST_PRM_SCORE	[1, 2]	[11, 7]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253227	0.2	11	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253227	0.2	11	2	LATEST_STEP	[1, 2]	[10, 11]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_253227	0.2	11	2	UNIFORM_SPACING	[1, 2]	[3, 9]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253227	0.25	11	3	DECOUPLE	[1, 2, 3]	[2, 3, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253227	0.25	11	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[11, 7, 4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253227	0.25	11	3	LOWEST_PRM_SCORE	[1, 2, 3]	[11, 7, 4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253227	0.25	11	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253227	0.25	11	3	LATEST_STEP	[1, 2, 3]	[9, 10, 11]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_253227	0.25	11	3	UNIFORM_SPACING	[1, 2, 3]	[2, 6, 10]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.05	8	1	DECOUPLE	[1]	[2]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.05	8	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.05	8	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.05	8	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253351	0.05	8	1	LATEST_STEP	[1]	[8]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.05	8	1	UNIFORM_SPACING	[1]	[4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.1	8	1	DECOUPLE	[1]	[2]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.1	8	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.1	8	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.1	8	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253351	0.1	8	1	LATEST_STEP	[1]	[8]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.1	8	1	UNIFORM_SPACING	[1]	[4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.15	8	1	DECOUPLE	[1]	[2]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.15	8	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.15	8	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.15	8	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_253351	0.15	8	1	LATEST_STEP	[1]	[8]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.15	8	1	UNIFORM_SPACING	[1]	[4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.2	8	2	DECOUPLE	[1, 3]	[2, 3]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.2	8	2	LOCAL_RISK_STEP_PRM	[1, 3]	[6, 7]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_253351	0.2	8	2	LOWEST_PRM_SCORE	[1, 3]	[6, 7]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_253351	0.2	8	2	EARLIEST_STEP	[1, 3]	[1, 2]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.2	8	2	LATEST_STEP	[1, 3]	[7, 8]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_253351	0.2	8	2	UNIFORM_SPACING	[1, 3]	[2, 6]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_253351	0.25	8	2	DECOUPLE	[1, 3]	[2, 3]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.25	8	2	LOCAL_RISK_STEP_PRM	[1, 3]	[6, 7]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_253351	0.25	8	2	LOWEST_PRM_SCORE	[1, 3]	[6, 7]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_253351	0.25	8	2	EARLIEST_STEP	[1, 3]	[1, 2]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_253351	0.25	8	2	LATEST_STEP	[1, 3]	[7, 8]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_253351	0.25	8	2	UNIFORM_SPACING	[1, 3]	[2, 6]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_267595	0.05	6	1	DECOUPLE	[2]	[1]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.05	6	1	LOCAL_RISK_STEP_PRM	[2]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_267595	0.05	6	1	LOWEST_PRM_SCORE	[2]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_267595	0.05	6	1	EARLIEST_STEP	[2]	[1]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.05	6	1	LATEST_STEP	[2]	[6]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.05	6	1	UNIFORM_SPACING	[2]	[3]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.1	6	1	DECOUPLE	[2]	[1]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.1	6	1	LOCAL_RISK_STEP_PRM	[2]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_267595	0.1	6	1	LOWEST_PRM_SCORE	[2]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_267595	0.1	6	1	EARLIEST_STEP	[2]	[1]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.1	6	1	LATEST_STEP	[2]	[6]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.1	6	1	UNIFORM_SPACING	[2]	[3]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.15	6	1	DECOUPLE	[2]	[1]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.15	6	1	LOCAL_RISK_STEP_PRM	[2]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_267595	0.15	6	1	LOWEST_PRM_SCORE	[2]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_267595	0.15	6	1	EARLIEST_STEP	[2]	[1]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.15	6	1	LATEST_STEP	[2]	[6]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.15	6	1	UNIFORM_SPACING	[2]	[3]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.2	6	1	DECOUPLE	[2]	[1]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.2	6	1	LOCAL_RISK_STEP_PRM	[2]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_267595	0.2	6	1	LOWEST_PRM_SCORE	[2]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_267595	0.2	6	1	EARLIEST_STEP	[2]	[1]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.2	6	1	LATEST_STEP	[2]	[6]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.2	6	1	UNIFORM_SPACING	[2]	[3]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.25	6	2	DECOUPLE	[2, 1]	[1, 2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_267595	0.25	6	2	LOCAL_RISK_STEP_PRM	[2, 1]	[2, 4]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_267595	0.25	6	2	LOWEST_PRM_SCORE	[2, 1]	[2, 4]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_267595	0.25	6	2	EARLIEST_STEP	[2, 1]	[1, 2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_267595	0.25	6	2	LATEST_STEP	[2, 1]	[5, 6]	-1.0	-2.0	1.0
+MATH_SHEPHERD	math_shepherd_267595	0.25	6	2	UNIFORM_SPACING	[2, 1]	[2, 5]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.05	5	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.05	5	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.05	5	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.05	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.05	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.05	5	1	UNIFORM_SPACING	[1]	[3]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_269487	0.1	5	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.1	5	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.1	5	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.1	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.1	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.1	5	1	UNIFORM_SPACING	[1]	[3]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_269487	0.15	5	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.15	5	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.15	5	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.15	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.15	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.15	5	1	UNIFORM_SPACING	[1]	[3]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_269487	0.2	5	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.2	5	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.2	5	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.2	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.2	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.2	5	1	UNIFORM_SPACING	[1]	[3]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_269487	0.25	5	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.25	5	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.25	5	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.25	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.25	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_269487	0.25	5	1	UNIFORM_SPACING	[1]	[3]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_270826	0.05	18	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.05	18	1	LOCAL_RISK_STEP_PRM	[1]	[14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.05	18	1	LOWEST_PRM_SCORE	[1]	[14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.05	18	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.05	18	1	LATEST_STEP	[1]	[18]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_270826	0.05	18	1	UNIFORM_SPACING	[1]	[9]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.1	18	2	DECOUPLE	[1, 2]	[1, 5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.1	18	2	LOCAL_RISK_STEP_PRM	[1, 2]	[14, 13]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.1	18	2	LOWEST_PRM_SCORE	[1, 2]	[14, 13]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.1	18	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.1	18	2	LATEST_STEP	[1, 2]	[17, 18]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_270826	0.1	18	2	UNIFORM_SPACING	[1, 2]	[5, 14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.15	18	3	DECOUPLE	[1, 2, 3]	[1, 5, 9]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.15	18	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[14, 13, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.15	18	3	LOWEST_PRM_SCORE	[1, 2, 3]	[14, 13, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.15	18	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.15	18	3	LATEST_STEP	[1, 2, 3]	[16, 17, 18]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_270826	0.15	18	3	UNIFORM_SPACING	[1, 2, 3]	[3, 9, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.2	18	4	DECOUPLE	[1, 2, 3, 4]	[1, 5, 9, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.2	18	4	LOCAL_RISK_STEP_PRM	[1, 2, 3, 4]	[14, 13, 4, 10]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.2	18	4	LOWEST_PRM_SCORE	[1, 2, 3, 4]	[14, 13, 4, 10]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.2	18	4	EARLIEST_STEP	[1, 2, 3, 4]	[1, 2, 3, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.2	18	4	LATEST_STEP	[1, 2, 3, 4]	[15, 16, 17, 18]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_270826	0.2	18	4	UNIFORM_SPACING	[1, 2, 3, 4]	[3, 7, 12, 16]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.25	18	5	DECOUPLE	[1, 2, 3, 4, 5]	[1, 5, 9, 4, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.25	18	5	LOCAL_RISK_STEP_PRM	[1, 2, 3, 4, 5]	[14, 13, 4, 10, 18]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_270826	0.25	18	5	LOWEST_PRM_SCORE	[1, 2, 3, 4, 5]	[14, 13, 4, 10, 18]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_270826	0.25	18	5	EARLIEST_STEP	[1, 2, 3, 4, 5]	[1, 2, 3, 4, 5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_270826	0.25	18	5	LATEST_STEP	[1, 2, 3, 4, 5]	[14, 15, 16, 17, 18]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_270826	0.25	18	5	UNIFORM_SPACING	[1, 2, 3, 4, 5]	[2, 6, 9, 13, 17]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.05	1	1	DECOUPLE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.05	1	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.05	1	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.05	1	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.05	1	1	LATEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.05	1	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.1	1	1	DECOUPLE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.1	1	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.1	1	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.1	1	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.1	1	1	LATEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.1	1	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.15	1	1	DECOUPLE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.15	1	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.15	1	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.15	1	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.15	1	1	LATEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.15	1	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.2	1	1	DECOUPLE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.2	1	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.2	1	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.2	1	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.2	1	1	LATEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.2	1	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.25	1	1	DECOUPLE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.25	1	1	LOCAL_RISK_STEP_PRM	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.25	1	1	LOWEST_PRM_SCORE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.25	1	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.25	1	1	LATEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_276082	0.25	1	1	UNIFORM_SPACING	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.05	5	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.05	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.05	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.05	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.05	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.05	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.1	5	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.1	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.1	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.1	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.1	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.1	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.15	5	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.15	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.15	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.15	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.15	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.15	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.2	5	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.2	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.2	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.2	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.2	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.2	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.25	5	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.25	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.25	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.25	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.25	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_293934	0.25	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.05	15	1	DECOUPLE	[1]	[8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.05	15	1	LOCAL_RISK_STEP_PRM	[1]	[14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.05	15	1	LOWEST_PRM_SCORE	[1]	[14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.05	15	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.05	15	1	LATEST_STEP	[1]	[15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.05	15	1	UNIFORM_SPACING	[1]	[8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.1	15	2	DECOUPLE	[1, 2]	[8, 11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.1	15	2	LOCAL_RISK_STEP_PRM	[1, 2]	[14, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.1	15	2	LOWEST_PRM_SCORE	[1, 2]	[14, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.1	15	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.1	15	2	LATEST_STEP	[1, 2]	[14, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.1	15	2	UNIFORM_SPACING	[1, 2]	[4, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.15	15	2	DECOUPLE	[1, 2]	[8, 11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.15	15	2	LOCAL_RISK_STEP_PRM	[1, 2]	[14, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.15	15	2	LOWEST_PRM_SCORE	[1, 2]	[14, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.15	15	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.15	15	2	LATEST_STEP	[1, 2]	[14, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.15	15	2	UNIFORM_SPACING	[1, 2]	[4, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.2	15	3	DECOUPLE	[1, 2, 3]	[8, 11, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.2	15	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[14, 12, 8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.2	15	3	LOWEST_PRM_SCORE	[1, 2, 3]	[14, 12, 8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.2	15	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.2	15	3	LATEST_STEP	[1, 2, 3]	[13, 14, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.2	15	3	UNIFORM_SPACING	[1, 2, 3]	[3, 8, 13]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.25	15	4	DECOUPLE	[1, 2, 3, 4]	[8, 11, 12, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.25	15	4	LOCAL_RISK_STEP_PRM	[1, 2, 3, 4]	[14, 12, 8, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.25	15	4	LOWEST_PRM_SCORE	[1, 2, 3, 4]	[14, 12, 8, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.25	15	4	EARLIEST_STEP	[1, 2, 3, 4]	[1, 2, 3, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.25	15	4	LATEST_STEP	[1, 2, 3, 4]	[12, 13, 14, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_301026	0.25	15	4	UNIFORM_SPACING	[1, 2, 3, 4]	[2, 6, 10, 14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.05	7	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.05	7	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.05	7	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.05	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.05	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.05	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.1	7	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.1	7	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.1	7	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.1	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.1	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.1	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.15	7	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.15	7	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.15	7	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.15	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.15	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.15	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.2	7	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.2	7	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.2	7	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.2	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.2	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.2	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.25	7	2	DECOUPLE	[1, 2]	[2, 1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.25	7	2	LOCAL_RISK_STEP_PRM	[1, 2]	[6, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.25	7	2	LOWEST_PRM_SCORE	[1, 2]	[6, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.25	7	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.25	7	2	LATEST_STEP	[1, 2]	[6, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_303379	0.25	7	2	UNIFORM_SPACING	[1, 2]	[2, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.05	5	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.05	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.05	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.05	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.05	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.05	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.1	5	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.1	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.1	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.1	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.1	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.1	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.15	5	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.15	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.15	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.15	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.15	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.15	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.2	5	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.2	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.2	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.2	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.2	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.2	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.25	5	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.25	5	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.25	5	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.25	5	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.25	5	1	LATEST_STEP	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_307924	0.25	5	1	UNIFORM_SPACING	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.05	19	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.05	19	1	LOCAL_RISK_STEP_PRM	[1]	[19]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.05	19	1	LOWEST_PRM_SCORE	[1]	[19]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.05	19	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.05	19	1	LATEST_STEP	[1]	[19]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.05	19	1	UNIFORM_SPACING	[1]	[10]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.1	19	2	DECOUPLE	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.1	19	2	LOCAL_RISK_STEP_PRM	[1, 2]	[19, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.1	19	2	LOWEST_PRM_SCORE	[1, 2]	[19, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.1	19	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.1	19	2	LATEST_STEP	[1, 2]	[18, 19]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.1	19	2	UNIFORM_SPACING	[1, 2]	[5, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.15	19	3	DECOUPLE	[1, 2, 3]	[1, 2, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.15	19	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[19, 12, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.15	19	3	LOWEST_PRM_SCORE	[1, 2, 3]	[19, 12, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.15	19	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.15	19	3	LATEST_STEP	[1, 2, 3]	[17, 18, 19]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.15	19	3	UNIFORM_SPACING	[1, 2, 3]	[4, 10, 16]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.2	19	4	DECOUPLE	[1, 2, 3, 4]	[1, 2, 7, 8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.2	19	4	LOCAL_RISK_STEP_PRM	[1, 2, 3, 4]	[19, 12, 15, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.2	19	4	LOWEST_PRM_SCORE	[1, 2, 3, 4]	[19, 12, 15, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.2	19	4	EARLIEST_STEP	[1, 2, 3, 4]	[1, 2, 3, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.2	19	4	LATEST_STEP	[1, 2, 3, 4]	[16, 17, 18, 19]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.2	19	4	UNIFORM_SPACING	[1, 2, 3, 4]	[3, 8, 12, 17]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.25	19	5	DECOUPLE	[1, 2, 3, 4, 5]	[1, 2, 7, 8, 5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.25	19	5	LOCAL_RISK_STEP_PRM	[1, 2, 3, 4, 5]	[19, 12, 15, 7, 11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.25	19	5	LOWEST_PRM_SCORE	[1, 2, 3, 4, 5]	[19, 12, 15, 7, 11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.25	19	5	EARLIEST_STEP	[1, 2, 3, 4, 5]	[1, 2, 3, 4, 5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.25	19	5	LATEST_STEP	[1, 2, 3, 4, 5]	[15, 16, 17, 18, 19]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_311672	0.25	19	5	UNIFORM_SPACING	[1, 2, 3, 4, 5]	[2, 6, 10, 14, 18]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.05	4	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.05	4	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.05	4	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.05	4	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.05	4	1	LATEST_STEP	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.05	4	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.1	4	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.1	4	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.1	4	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.1	4	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.1	4	1	LATEST_STEP	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.1	4	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.15	4	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.15	4	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.15	4	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.15	4	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.15	4	1	LATEST_STEP	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.15	4	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.2	4	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.2	4	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.2	4	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.2	4	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.2	4	1	LATEST_STEP	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.2	4	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.25	4	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.25	4	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.25	4	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.25	4	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.25	4	1	LATEST_STEP	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_315309	0.25	4	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.05	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.05	3	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.05	3	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.05	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.05	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.05	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.1	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.1	3	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.1	3	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.1	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.1	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.1	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.15	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.15	3	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.15	3	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.15	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.15	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.15	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.2	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.2	3	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.2	3	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.2	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.2	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.2	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.25	3	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.25	3	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.25	3	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.25	3	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.25	3	1	LATEST_STEP	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_330385	0.25	3	1	UNIFORM_SPACING	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.05	14	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.05	14	1	LOCAL_RISK_STEP_PRM	[1]	[11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.05	14	1	LOWEST_PRM_SCORE	[1]	[11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.05	14	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.05	14	1	LATEST_STEP	[1]	[14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.05	14	1	UNIFORM_SPACING	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.1	14	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.1	14	1	LOCAL_RISK_STEP_PRM	[1]	[11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.1	14	1	LOWEST_PRM_SCORE	[1]	[11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.1	14	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.1	14	1	LATEST_STEP	[1]	[14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.1	14	1	UNIFORM_SPACING	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.15	14	2	DECOUPLE	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.15	14	2	LOCAL_RISK_STEP_PRM	[1, 2]	[11, 8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.15	14	2	LOWEST_PRM_SCORE	[1, 2]	[11, 8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.15	14	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.15	14	2	LATEST_STEP	[1, 2]	[13, 14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.15	14	2	UNIFORM_SPACING	[1, 2]	[4, 11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.2	14	3	DECOUPLE	[1, 2, 3]	[1, 2, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.2	14	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[11, 8, 10]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.2	14	3	LOWEST_PRM_SCORE	[1, 2, 3]	[11, 8, 10]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.2	14	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.2	14	3	LATEST_STEP	[1, 2, 3]	[12, 13, 14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.2	14	3	UNIFORM_SPACING	[1, 2, 3]	[3, 7, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.25	14	4	DECOUPLE	[1, 2, 3, 4]	[1, 2, 4, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.25	14	4	LOCAL_RISK_STEP_PRM	[1, 2, 3, 4]	[11, 8, 10, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.25	14	4	LOWEST_PRM_SCORE	[1, 2, 3, 4]	[11, 8, 10, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.25	14	4	EARLIEST_STEP	[1, 2, 3, 4]	[1, 2, 3, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.25	14	4	LATEST_STEP	[1, 2, 3, 4]	[11, 12, 13, 14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_337892	0.25	14	4	UNIFORM_SPACING	[1, 2, 3, 4]	[2, 6, 9, 13]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.05	15	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.05	15	1	LOCAL_RISK_STEP_PRM	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.05	15	1	LOWEST_PRM_SCORE	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.05	15	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.05	15	1	LATEST_STEP	[1]	[15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.05	15	1	UNIFORM_SPACING	[1]	[8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.1	15	2	DECOUPLE	[1, 2]	[2, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.1	15	2	LOCAL_RISK_STEP_PRM	[1, 2]	[7, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.1	15	2	LOWEST_PRM_SCORE	[1, 2]	[7, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.1	15	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.1	15	2	LATEST_STEP	[1, 2]	[14, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.1	15	2	UNIFORM_SPACING	[1, 2]	[4, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.15	15	2	DECOUPLE	[1, 2]	[2, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.15	15	2	LOCAL_RISK_STEP_PRM	[1, 2]	[7, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.15	15	2	LOWEST_PRM_SCORE	[1, 2]	[7, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.15	15	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.15	15	2	LATEST_STEP	[1, 2]	[14, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.15	15	2	UNIFORM_SPACING	[1, 2]	[4, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.2	15	3	DECOUPLE	[1, 2, 3]	[2, 4, 1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.2	15	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[7, 15, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.2	15	3	LOWEST_PRM_SCORE	[1, 2, 3]	[7, 15, 12]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.2	15	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.2	15	3	LATEST_STEP	[1, 2, 3]	[13, 14, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.2	15	3	UNIFORM_SPACING	[1, 2, 3]	[3, 8, 13]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.25	15	4	DECOUPLE	[1, 2, 3, 4]	[2, 4, 1, 11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.25	15	4	LOCAL_RISK_STEP_PRM	[1, 2, 3, 4]	[7, 15, 12, 14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.25	15	4	LOWEST_PRM_SCORE	[1, 2, 3, 4]	[7, 15, 12, 14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.25	15	4	EARLIEST_STEP	[1, 2, 3, 4]	[1, 2, 3, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.25	15	4	LATEST_STEP	[1, 2, 3, 4]	[12, 13, 14, 15]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_339657	0.25	15	4	UNIFORM_SPACING	[1, 2, 3, 4]	[2, 6, 10, 14]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.05	11	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.05	11	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.05	11	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.05	11	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.05	11	1	LATEST_STEP	[1]	[11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.05	11	1	UNIFORM_SPACING	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.1	11	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.1	11	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.1	11	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.1	11	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.1	11	1	LATEST_STEP	[1]	[11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.1	11	1	UNIFORM_SPACING	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.15	11	2	DECOUPLE	[1, 2]	[1, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.15	11	2	LOCAL_RISK_STEP_PRM	[1, 2]	[2, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.15	11	2	LOWEST_PRM_SCORE	[1, 2]	[2, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.15	11	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.15	11	2	LATEST_STEP	[1, 2]	[10, 11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.15	11	2	UNIFORM_SPACING	[1, 2]	[3, 9]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.2	11	2	DECOUPLE	[1, 2]	[1, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.2	11	2	LOCAL_RISK_STEP_PRM	[1, 2]	[2, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.2	11	2	LOWEST_PRM_SCORE	[1, 2]	[2, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.2	11	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.2	11	2	LATEST_STEP	[1, 2]	[10, 11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.2	11	2	UNIFORM_SPACING	[1, 2]	[3, 9]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.25	11	3	DECOUPLE	[1, 2, 3]	[1, 4, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.25	11	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[2, 6, 8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.25	11	3	LOWEST_PRM_SCORE	[1, 2, 3]	[2, 6, 8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.25	11	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.25	11	3	LATEST_STEP	[1, 2, 3]	[9, 10, 11]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_340416	0.25	11	3	UNIFORM_SPACING	[1, 2, 3]	[2, 6, 10]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.05	7	1	DECOUPLE	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.05	7	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.05	7	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.05	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.05	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.05	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.1	7	1	DECOUPLE	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.1	7	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.1	7	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.1	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.1	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.1	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.15	7	1	DECOUPLE	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.15	7	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.15	7	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.15	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.15	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.15	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.2	7	1	DECOUPLE	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.2	7	1	LOCAL_RISK_STEP_PRM	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.2	7	1	LOWEST_PRM_SCORE	[1]	[6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.2	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.2	7	1	LATEST_STEP	[1]	[7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.2	7	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.25	7	2	DECOUPLE	[1, 2]	[6, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.25	7	2	LOCAL_RISK_STEP_PRM	[1, 2]	[6, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.25	7	2	LOWEST_PRM_SCORE	[1, 2]	[6, 4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.25	7	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.25	7	2	LATEST_STEP	[1, 2]	[6, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_352815	0.25	7	2	UNIFORM_SPACING	[1, 2]	[2, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.05	8	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.05	8	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.05	8	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.05	8	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.05	8	1	LATEST_STEP	[1]	[8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.05	8	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.1	8	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.1	8	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.1	8	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.1	8	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.1	8	1	LATEST_STEP	[1]	[8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.1	8	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.15	8	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.15	8	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.15	8	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.15	8	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.15	8	1	LATEST_STEP	[1]	[8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.15	8	1	UNIFORM_SPACING	[1]	[4]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.2	8	2	DECOUPLE	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.2	8	2	LOCAL_RISK_STEP_PRM	[1, 2]	[4, 5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.2	8	2	LOWEST_PRM_SCORE	[1, 2]	[4, 5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.2	8	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.2	8	2	LATEST_STEP	[1, 2]	[7, 8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.2	8	2	UNIFORM_SPACING	[1, 2]	[2, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.25	8	2	DECOUPLE	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.25	8	2	LOCAL_RISK_STEP_PRM	[1, 2]	[4, 5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.25	8	2	LOWEST_PRM_SCORE	[1, 2]	[4, 5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.25	8	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.25	8	2	LATEST_STEP	[1, 2]	[7, 8]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_368766	0.25	8	2	UNIFORM_SPACING	[1, 2]	[2, 6]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.05	9	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.05	9	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.05	9	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.05	9	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.05	9	1	LATEST_STEP	[1]	[9]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.05	9	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.1	9	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.1	9	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.1	9	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.1	9	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.1	9	1	LATEST_STEP	[1]	[9]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.1	9	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.15	9	1	DECOUPLE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.15	9	1	LOCAL_RISK_STEP_PRM	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.15	9	1	LOWEST_PRM_SCORE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.15	9	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.15	9	1	LATEST_STEP	[1]	[9]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.15	9	1	UNIFORM_SPACING	[1]	[5]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.2	9	2	DECOUPLE	[1, 2]	[3, 1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.2	9	2	LOCAL_RISK_STEP_PRM	[1, 2]	[2, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.2	9	2	LOWEST_PRM_SCORE	[1, 2]	[2, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.2	9	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.2	9	2	LATEST_STEP	[1, 2]	[8, 9]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.2	9	2	UNIFORM_SPACING	[1, 2]	[3, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.25	9	2	DECOUPLE	[1, 2]	[3, 1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.25	9	2	LOCAL_RISK_STEP_PRM	[1, 2]	[2, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.25	9	2	LOWEST_PRM_SCORE	[1, 2]	[2, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.25	9	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.25	9	2	LATEST_STEP	[1, 2]	[8, 9]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_372805	0.25	9	2	UNIFORM_SPACING	[1, 2]	[3, 7]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.05	5	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.05	5	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.05	5	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.05	5	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.05	5	1	LATEST_STEP	[1]	[5]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.05	5	1	UNIFORM_SPACING	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.1	5	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.1	5	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.1	5	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.1	5	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.1	5	1	LATEST_STEP	[1]	[5]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.1	5	1	UNIFORM_SPACING	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.15	5	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.15	5	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.15	5	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.15	5	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.15	5	1	LATEST_STEP	[1]	[5]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.15	5	1	UNIFORM_SPACING	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.2	5	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.2	5	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.2	5	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.2	5	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.2	5	1	LATEST_STEP	[1]	[5]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.2	5	1	UNIFORM_SPACING	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.25	5	1	DECOUPLE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.25	5	1	LOCAL_RISK_STEP_PRM	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.25	5	1	LOWEST_PRM_SCORE	[1]	[2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.25	5	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.25	5	1	LATEST_STEP	[1]	[5]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_399743	0.25	5	1	UNIFORM_SPACING	[1]	[3]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_402276	0.05	7	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_402276	0.05	7	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_402276	0.05	7	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_402276	0.05	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_402276	0.05	7	1	LATEST_STEP	[1]	[7]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_402276	0.05	7	1	UNIFORM_SPACING	[1]	[4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_402276	0.1	7	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_402276	0.1	7	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_402276	0.1	7	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_402276	0.1	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_402276	0.1	7	1	LATEST_STEP	[1]	[7]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_402276	0.1	7	1	UNIFORM_SPACING	[1]	[4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_402276	0.15	7	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_402276	0.15	7	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_402276	0.15	7	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_402276	0.15	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_402276	0.15	7	1	LATEST_STEP	[1]	[7]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_402276	0.15	7	1	UNIFORM_SPACING	[1]	[4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_402276	0.2	7	1	DECOUPLE	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_402276	0.2	7	1	LOCAL_RISK_STEP_PRM	[1]	[4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_402276	0.2	7	1	LOWEST_PRM_SCORE	[1]	[4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_402276	0.2	7	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_402276	0.2	7	1	LATEST_STEP	[1]	[7]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_402276	0.2	7	1	UNIFORM_SPACING	[1]	[4]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_402276	0.25	7	2	DECOUPLE	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_402276	0.25	7	2	LOCAL_RISK_STEP_PRM	[1, 2]	[4, 7]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_402276	0.25	7	2	LOWEST_PRM_SCORE	[1, 2]	[4, 7]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_402276	0.25	7	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_402276	0.25	7	2	LATEST_STEP	[1, 2]	[6, 7]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_402276	0.25	7	2	UNIFORM_SPACING	[1, 2]	[2, 6]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.05	9	1	DECOUPLE	[1]	[2]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.05	9	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.05	9	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.05	9	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_412090	0.05	9	1	LATEST_STEP	[1]	[9]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.05	9	1	UNIFORM_SPACING	[1]	[5]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.1	9	1	DECOUPLE	[1]	[2]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.1	9	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.1	9	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.1	9	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_412090	0.1	9	1	LATEST_STEP	[1]	[9]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.1	9	1	UNIFORM_SPACING	[1]	[5]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.15	9	1	DECOUPLE	[1]	[2]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.15	9	1	LOCAL_RISK_STEP_PRM	[1]	[5]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.15	9	1	LOWEST_PRM_SCORE	[1]	[5]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.15	9	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_412090	0.15	9	1	LATEST_STEP	[1]	[9]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.15	9	1	UNIFORM_SPACING	[1]	[5]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.2	9	2	DECOUPLE	[1, 2]	[2, 3]	-1.0	-2.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.2	9	2	LOCAL_RISK_STEP_PRM	[1, 2]	[5, 8]	-1.0	-2.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.2	9	2	LOWEST_PRM_SCORE	[1, 2]	[5, 8]	-1.0	-2.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.2	9	2	EARLIEST_STEP	[1, 2]	[1, 2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_412090	0.2	9	2	LATEST_STEP	[1, 2]	[8, 9]	-1.0	-2.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.2	9	2	UNIFORM_SPACING	[1, 2]	[3, 7]	-1.0	-2.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.25	9	2	DECOUPLE	[1, 2]	[2, 3]	-1.0	-2.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.25	9	2	LOCAL_RISK_STEP_PRM	[1, 2]	[5, 8]	-1.0	-2.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.25	9	2	LOWEST_PRM_SCORE	[1, 2]	[5, 8]	-1.0	-2.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.25	9	2	EARLIEST_STEP	[1, 2]	[1, 2]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_412090	0.25	9	2	LATEST_STEP	[1, 2]	[8, 9]	-1.0	-2.0	1.0
+MATH_SHEPHERD	math_shepherd_412090	0.25	9	2	UNIFORM_SPACING	[1, 2]	[3, 7]	-1.0	-2.0	1.0
+MATH_SHEPHERD	math_shepherd_418464	0.05	12	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_418464	0.05	12	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_418464	0.05	12	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_418464	0.05	12	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_418464	0.05	12	1	LATEST_STEP	[1]	[12]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_418464	0.05	12	1	UNIFORM_SPACING	[1]	[6]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_418464	0.1	12	1	DECOUPLE	[1]	[2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_418464	0.1	12	1	LOCAL_RISK_STEP_PRM	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_418464	0.1	12	1	LOWEST_PRM_SCORE	[1]	[3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_418464	0.1	12	1	EARLIEST_STEP	[1]	[1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_418464	0.1	12	1	LATEST_STEP	[1]	[12]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_418464	0.1	12	1	UNIFORM_SPACING	[1]	[6]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_418464	0.15	12	2	DECOUPLE	[1, 2]	[2, 1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_418464	0.15	12	2	LOCAL_RISK_STEP_PRM	[1, 2]	[3, 7]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_418464	0.15	12	2	LOWEST_PRM_SCORE	[1, 2]	[3, 7]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_418464	0.15	12	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_418464	0.15	12	2	LATEST_STEP	[1, 2]	[11, 12]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_418464	0.15	12	2	UNIFORM_SPACING	[1, 2]	[3, 9]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_418464	0.2	12	2	DECOUPLE	[1, 2]	[2, 1]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_418464	0.2	12	2	LOCAL_RISK_STEP_PRM	[1, 2]	[3, 7]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_418464	0.2	12	2	LOWEST_PRM_SCORE	[1, 2]	[3, 7]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_418464	0.2	12	2	EARLIEST_STEP	[1, 2]	[1, 2]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_418464	0.2	12	2	LATEST_STEP	[1, 2]	[11, 12]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_418464	0.2	12	2	UNIFORM_SPACING	[1, 2]	[3, 9]	0.0	-1.0	1.0
+MATH_SHEPHERD	math_shepherd_418464	0.25	12	3	DECOUPLE	[1, 2, 3]	[2, 1, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_418464	0.25	12	3	LOCAL_RISK_STEP_PRM	[1, 2, 3]	[3, 7, 6]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_418464	0.25	12	3	LOWEST_PRM_SCORE	[1, 2, 3]	[3, 7, 6]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_418464	0.25	12	3	EARLIEST_STEP	[1, 2, 3]	[1, 2, 3]	0.0	0.0	0.0
+MATH_SHEPHERD	math_shepherd_418464	0.25	12	3	LATEST_STEP	[1, 2, 3]	[10, 11, 12]	0.0	-3.0	3.0
+MATH_SHEPHERD	math_shepherd_418464	0.25	12	3	UNIFORM_SPACING	[1, 2, 3]	[2, 6, 10]	0.0	-2.0	2.0
+MATH_SHEPHERD	math_shepherd_429104	0.05	9	1	DECOUPLE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.05	9	1	LOCAL_RISK_STEP_PRM	[1]	[7]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.05	9	1	LOWEST_PRM_SCORE	[1]	[7]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.05	9	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.05	9	1	LATEST_STEP	[1]	[9]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.05	9	1	UNIFORM_SPACING	[1]	[5]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.1	9	1	DECOUPLE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.1	9	1	LOCAL_RISK_STEP_PRM	[1]	[7]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.1	9	1	LOWEST_PRM_SCORE	[1]	[7]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.1	9	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.1	9	1	LATEST_STEP	[1]	[9]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.1	9	1	UNIFORM_SPACING	[1]	[5]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.15	9	1	DECOUPLE	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.15	9	1	LOCAL_RISK_STEP_PRM	[1]	[7]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.15	9	1	LOWEST_PRM_SCORE	[1]	[7]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.15	9	1	EARLIEST_STEP	[1]	[1]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.15	9	1	LATEST_STEP	[1]	[9]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.15	9	1	UNIFORM_SPACING	[1]	[5]	-1.0	-1.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.2	9	2	DECOUPLE	[1, 2]	[1, 5]	-2.0	-2.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.2	9	2	LOCAL_RISK_STEP_PRM	[1, 2]	[7, 8]	-2.0	-2.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.2	9	2	LOWEST_PRM_SCORE	[1, 2]	[7, 8]	-2.0	-2.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.2	9	2	EARLIEST_STEP	[1, 2]	[1, 2]	-2.0	-2.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.2	9	2	LATEST_STEP	[1, 2]	[8, 9]	-2.0	-2.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.2	9	2	UNIFORM_SPACING	[1, 2]	[3, 7]	-2.0	-2.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.25	9	2	DECOUPLE	[1, 2]	[1, 5]	-2.0	-2.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.25	9	2	LOCAL_RISK_STEP_PRM	[1, 2]	[7, 8]	-2.0	-2.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.25	9	2	LOWEST_PRM_SCORE	[1, 2]	[7, 8]	-2.0	-2.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.25	9	2	EARLIEST_STEP	[1, 2]	[1, 2]	-2.0	-2.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.25	9	2	LATEST_STEP	[1, 2]	[8, 9]	-2.0	-2.0	0.0
+MATH_SHEPHERD	math_shepherd_429104	0.25	9	2	UNIFORM_SPACING	[1, 2]	[3, 7]	-2.0	-2.0	0.0

@@ -1,0 +1,3 @@
+benchmark	baseline	pair_panel_n	DE_full_VEF_AUBC	baseline_full_VEF_AUBC	observed_delta	bootstrap_ci95_low	bootstrap_ci95_high	bootstrap_lower95_one_sided	bootstrap_prob_delta_ge_0	bootstrap_prob_delta_gt_0	bootstrap_replicates	bootstrap_seed
+BFCL	ToolPRM-GRPO	12	0.166666667	0.250000000	-0.083333333	-0.250000000	0.000000000	-0.250000000	0.353400000	0.000000000	10000	20261029
+ToolAlpaca	ToolPRM-GRPO	25	0.520000000	0.480000000	0.040000000	-0.046315789	0.109473684	-0.040000000	0.829300000	0.599100000	10000	20261030

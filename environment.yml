@@ -1,0 +1,11 @@
+# Optional Conda environment for reviewer-facing zero-API reproduction.
+# Python 3.10.12 was used in the successful lab run.
+# Conda resolves a supported 3.10 patch, not necessarily exactly 3.10.12.
+name: decouple-repro
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy=2.2.6
+  - matplotlib=3.10.9

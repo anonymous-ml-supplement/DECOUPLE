@@ -1,0 +1,17 @@
+{
+  "status": "ZERO_API_K4_SUBSAMPLING_SENSITIVITY",
+  "primary_k": 8,
+  "sensitivity_k": 4,
+  "construction": "deterministic continuation indices 1..4 from frozen K8 semantic-class assignments",
+  "full_reclustering": false,
+  "k16_executed": false,
+  "primary_k8_modified": false,
+  "api_calls": 0,
+  "model_runs": 0,
+  "physical_replay": 0,
+  "candidate_rows": 631,
+  "bad_rows": 0,
+  "max_k8_reconstruction_abs_diff": 0.0,
+  "source_class_file": "__DECOUPLE_ROOT__/10_PILOT/STEP1/04_OUTPUTS/STEP1D_SEMANTIC/SEMANTIC_CLASSES_PT/semantic_class_index.jsonl",
+  "source_score_file": "__DECOUPLE_ROOT__/10_PILOT/STEP1/04_OUTPUTS/STEP1D_SEMANTIC/SEMANTIC_CLASSES_PT/semantic_candidate_scores.jsonl"
+}

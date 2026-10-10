@@ -1,0 +1,5 @@
+# Tier A/B deterministic, zero-API paper reproduction + optional figures.
+# Tested in the original lab: CPython 3.10.12; see docs/ENVIRONMENT.md.
+# This is a direct-dependency pin set, NOT a transitive/wheel-hash lock.
+numpy==2.2.6
+matplotlib==3.10.9

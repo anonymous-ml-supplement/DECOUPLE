@@ -1,0 +1,68 @@
+{
+  "api_calls": 0,
+  "blocking_components": [
+    "Step-PRM:C_score",
+    "PRM@BoK:C_score"
+  ],
+  "component_matrix": {
+    "DECOUPLE": {
+      "C_repair": "IDENTIFIED_FROM_STEP3E_COMPUTE_LEDGER",
+      "C_sample": "IDENTIFIED_FROM_K8_LEDGER",
+      "C_score": "NO_ADDITIONAL_MODEL_SCORER_REQUIRED_FOR_DECOUPLE_PRE"
+    },
+    "PRM@BoK": {
+      "C_repair": "IDENTIFIED_FROM_STEP3E_COMPUTE_LEDGER",
+      "C_sample": "IDENTIFIED_FROM_SHARED_K8_LEDGER",
+      "C_score": "NOT_IDENTIFIED_FROM_FROZEN_ACCOUNTING"
+    },
+    "Step-PRM": {
+      "C_repair": "IDENTIFIED_FROM_STEP3E_COMPUTE_LEDGER",
+      "C_sample": "NOT_APPLICABLE",
+      "C_score": "NOT_IDENTIFIED_FROM_FROZEN_ACCOUNTING"
+    },
+    "ToolPRM-GRPO": {
+      "C_repair": "IDENTIFIED_FROM_STEP3E_COMPUTE_LEDGER",
+      "C_sample": "NOT_APPLICABLE",
+      "C_score": "IDENTIFIED_FROM_DIRECT_COMPUTE_LEDGER"
+    }
+  },
+  "h2_compute_normalized_inference": "NOT_RUN",
+  "h2_status": "NOT_IDENTIFIABLE_FROM_FROZEN_ACCOUNTING",
+  "imputation": false,
+  "interpretation": "H2 cannot be classified as supported or not supported because the preregistered all-in compute-normalized contrast requires exact C_score for every primary baseline. Missing scorer compute is not imputed as zero.",
+  "model_runs": 0,
+  "prmbok_score_accounting": {
+    "exact_token_accounting_available": false,
+    "rows": 631,
+    "token_fields_present": []
+  },
+  "project": "DECOUPLE",
+  "recovered_accounting": {
+    "k8_calls": 5048,
+    "k8_instances": 100,
+    "k8_total_tokens": 7342565,
+    "step3e_compute_execution_ids": 2543,
+    "step3e_compute_rows": 26442,
+    "step3e_execution_rows": 2518,
+    "step3e_pending_zero_call_without_compute": 6,
+    "step3e_successful_missing_compute": 0,
+    "toolprm_calls": 1352,
+    "toolprm_instances": 37,
+    "toolprm_total_tokens": 5326907
+  },
+  "scientific_authority": "Spec5",
+  "source_hashes": {
+    "k8": "76f5d71330d3944bc854c0d803a79629253c62a2484eb5be7501e642cdeaf91c",
+    "prmbok_scores": "4a1e3d75effd8911f46d3a3ca30be3261e2c8fced836518f3fdd2d86bda1691b",
+    "step3e_compute": "75b41cbf3b419555ed0e91134aaf793315c9dd537efdb1339153a7b612c59397",
+    "step3e_execution": "831ebab2cfb3091ac4f0ced26e9e4c49b4a9aeecdb04e36a11c27836e2a4ca59",
+    "stepprm_scores": "1e69969ce4db999d17ffe55c6844d4e6c98c5fa9d405f896f0c46df0c3818478",
+    "toolprm_compute": "8081084b42ff163606a3dbecf21a4527d2c5dbab232075f15972c635f66bbb37"
+  },
+  "stage": "STEP4V2_H2_FINAL_CLOSURE",
+  "stepprm_score_accounting": {
+    "exact_token_accounting_available": false,
+    "rows": 631,
+    "token_fields_present": []
+  }
+}

@@ -1,0 +1,49 @@
+release: anonymous-review-v4
+method: DECOUPLE
+primary_scope: positive-budget verification-capacity allocation
+benchmarks:
+  BFCL: 25
+  Math-Shepherd: 50
+  ToolAlpaca: 25
+base_trajectories: 100
+eligible_decision_steps: 631
+semantic_continuations_per_step: 8
+semantic_continuation_calls: 5048
+positive_quota_percent: [5, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+closed_loop_physical_branches: 5296
+semantic_sampling:
+  model: gpt-5.6-terra
+  reasoning_effort: medium
+  requested_temperature: 0.7
+  requested_top_p: 0.95
+  effective_sampling: provider_default
+  api_max_output_tokens: 8192
+  scientific_local_window_tokens: 256
+  provider_seed_parameter: unavailable
+  deterministic_sampling_key_seed: 20260829
+intervention_refiner:
+  model: gpt-5.6-terra
+  reasoning_effort: medium
+  requested_temperature: 0.2
+  unsupported_parameter_fallback: provider_default_after_explicit_rejection
+  max_output_tokens: 2048
+structural_graph:
+  math_forward_window: 3
+  sparse_fallback_alpha: 0.4444444444444444
+availability_gate:
+  minimum_finite_coverage: 0.95
+  minimum_range: 1.0e-8
+selection:
+  tie_seed: 20260829
+  quota_rounding: nearest_integer_with_one_slot_floor
+inference:
+  cluster_unit: original_benchmark_instance
+  bootstrap_replicates: 10000
+  nonenvelope_signflip_replicates: 10000
+  final_vef_permutation_replicates: 100000
+headline_checks:
+  primary_core15: {positive: 10, tie: 5, negative: 0}
+  crossfit_core15: {positive: 6, tie: 5, negative: 4}
+  grid_stability_settings: 24
+  bfcl_zero_anchor: 0.32
+  math_shepherd_zero_anchor: 0.40

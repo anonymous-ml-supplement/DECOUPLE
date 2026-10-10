@@ -1,0 +1,16 @@
+benchmark	baseline	positive	tie	negative	raw_negative_to_nonnegative
+BFCL	H-only	0	11	0	2
+BFCL	p-only	0	11	0	2
+BFCL	Random	11	0	0	5
+BFCL	Step-PRM	11	0	0	2
+BFCL	PRM@BoK	3	8	0	4
+Math-Shepherd	H-only	11	0	0	4
+Math-Shepherd	p-only	11	0	0	1
+Math-Shepherd	Random	11	0	0	4
+Math-Shepherd	Step-PRM	11	0	0	3
+Math-Shepherd	PRM@BoK	11	0	0	3
+ToolAlpaca	H-only	0	11	0	0
+ToolAlpaca	p-only	0	11	0	0
+ToolAlpaca	Random	11	0	0	4
+ToolAlpaca	Step-PRM	0	11	0	4
+ToolAlpaca	PRM@BoK	5	6	0	4
